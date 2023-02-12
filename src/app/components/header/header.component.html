@@ -1,0 +1,17 @@
+<div class="" id="header">
+
+    <div class="container">
+        <nav>
+            <img class="logo" src="../../../assets/images/signature.png" alt="logo">
+            <ul id="side-bar">
+                <li *ngFor="let eachHeader of headerList">
+                    <a [href]="eachHeader.id"> {{eachHeader.value}}</a>
+                </li>
+                <i (click)="showMenu(false)" class="fas fa-times"></i>
+            </ul>
+            <i (click)="showMenu(true)" class="fas fa-bars"></i>
+        </nav>
+
+        </div>
+
+        </div>

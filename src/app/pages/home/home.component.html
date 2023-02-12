@@ -1,0 +1,307 @@
+<div class="" id="header">
+
+    <div class="container">
+        <nav>
+            <img class="logo" src="../../../assets/images/signature.png" alt="logo">
+            <ul id="side-bar">
+                <li *ngFor="let eachHeader of headerList">
+                    <a [href]="eachHeader.id"> {{eachHeader.value}}</a>
+                </li>
+                <i (click)="showMenu(false)" class="fas fa-times"></i>
+            </ul>
+            <i (click)="showMenu(true)" class="fas fa-bars"></i>
+        </nav>
+
+        <div class="header-text">
+
+            
+            <h1>Hello I am <br> <span>Shaayer</span>  Mukherjee</h1>
+            <div style="display:flex">
+                <p>I am a  &nbsp;</p>
+                <ngtypewriter [StringList]='typingList' [speed]='1000'></ngtypewriter>
+            </div>
+            
+       
+
+        </div>
+    </div>
+</div>
+
+<!-- About Section -->
+
+<div class="" id="about">
+
+    <div class="container">
+        <div class="row">
+            <div class="about-col-1">
+<img src="../../../assets/images/user.png" alt="">
+            </div>
+
+            <div class="about-col-2">
+                <h1 class="sub-title"> About Me</h1>
+
+                <p> Lorem ipsum dolor sit amet consectetur adipisicing elit. In dignissimos assumenda perspiciatis corrupti necessitatibus eum, odit sapiente accusantium quaerat commodi quas dolor iste quia molestias ducimus doloribus vitae repudiandae. In?</p>
+
+                <div class="tab-titles">
+                    <p [ngClass]="selectedAbTab==='expertise'?'active-link':''" (click)="setSelectedAboutTab('expertise')" class="tab-links">Expertise</p>
+                    <p [ngClass]="selectedAbTab==='experience'?'active-link':''"  (click)="setSelectedAboutTab('experience')" class="tab-links">Experience</p>
+                    <p [ngClass]="selectedAbTab==='achievements'?'active-link':''"  (click)="setSelectedAboutTab('achievements')" class="tab-links">Achievements</p>
+                </div>
+
+                <div *ngIf="selectedAbTab==='expertise'" class="tab-contents">
+                    <ul>
+                        <li>
+                            <span>Travel Photography</span>
+                            <br>Findng stories out of beautiful places
+                        </li>
+                        <li>
+                            <span>Street Photography</span>
+                            <br>Unveiling the extraordinary out of ordinary
+                        </li>
+                        <li>
+                            <span>Wedding and Potraits</span>
+                            <br>Capturing your special moments to make them immortal
+                        </li>
+                    </ul>
+                </div>
+
+                <div *ngIf="selectedAbTab==='experience'" class="tab-contents">
+
+                    <p>Over the last 7 years , Shaayer has the experience of working with some amazing brands like</p>
+                    <div style="display:flex">
+                    
+                    
+                        <ul class="">
+                            <li>
+                                <span>Vivo</span>
+                                
+                            </li>
+                            <li>
+                                <span>Westin</span>
+                                
+                            </li>
+                            <li>
+                                <span>ITC</span>
+                              
+                            </li>
+                        </ul>
+
+                        <ul class="brands">
+                            <li>
+                                <span>JW Marriott</span>
+                                
+                            </li>
+                            <li>
+                                <span>OYO</span>
+                                
+                            </li>
+                            <li>
+                                <span>Bubble Tea</span>
+                              
+                            </li>
+                        </ul>
+
+                        <ul class="brands">
+                            <li>
+                                <span>Bubble Tea</span>
+                                
+                            </li>
+                            <li>
+                                <span>Honor</span>
+                                
+                            </li>
+                            <li>
+                                <span>Asus</span>
+                              
+                            </li>
+                        </ul>
+                    
+                    </div>
+                </div>
+
+                <div *ngIf="selectedAbTab==='achievements'" class="tab-contents">
+                    <ul>
+                        <li>
+                            <span>First Prize</span>
+                            <br>Nikon Photo-content
+                        </li>
+                        <li>
+                            <span>Featured in</span>
+                            <br>Street Photography International
+                        </li>
+                        <li>
+                            <span>Official Influencer</span>
+                            <br>Nikon
+                        </li>
+                    </ul>
+                </div>
+
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+
+<div class="container">
+    <h1 class="sub-title"> Brand Collaboration</h1>
+    <app-brands></app-brands>
+</div>
+<!-- brands section -->
+
+
+
+ 
+      
+<!-- Services section -->
+    <div class="" id="services">
+        
+        <div class="container">
+            <h1 class="sub-title">
+                My services   
+               </h1>
+
+            <div class="service-list">
+
+                <div>
+                    <i class="fa-regular fa-plane"></i>
+                    <h2>Service Title</h2>
+                
+                    <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Cupiditate quia aliquid architecto, ipsa pariatur saepe alias fugit accusamus qui nobis debitis perferendis eius earum omnis fugiat. Cumque cum beatae commodi?
+                    Cumq</p>
+    
+                    <a href="#">Learn More</a>
+                </div>
+
+                <div>
+                    <i class="fa-regular fa-plane"></i>
+                    <h2>Service Title</h2>
+                
+                    <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Cupiditate quia aliquid architecto, ipsa pariatur saepe alias fugit accusamus qui nobis debitis perferendis eius earum omnis fugiat. Cumque cum beatae commodi?
+                    Cumq</p>
+    
+                    <a href="#">Learn More</a>
+                </div>
+
+                <div>
+                    <i class="fa-regular fa-plane"></i>
+                    <h2>Service Title</h2>
+                
+                    <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Cupiditate quia aliquid architecto, ipsa pariatur saepe alias fugit accusamus qui nobis debitis perferendis eius earum omnis fugiat. Cumque cum beatae commodi?
+                    Cumq</p>
+    
+                    <a href="#">Learn More</a>
+                </div>
+               
+                
+            </div>
+
+
+          
+
+            
+
+
+
+          
+        </div>
+    </div>
+
+
+    <!-- Portfolio -->
+
+    <div class="" id="portfolio">
+
+        <div class="container">
+            <h1 class="sub-title">
+                My Work   
+               </h1>
+
+               <div class="work-list">
+                <div class="work">
+                    <img src="../../../assets/images/work-1.png" alt="" srcset="">
+
+                    <div class="layer">
+
+                        <h3>Social Media</h3>
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Similique deserunt nemo voluptatem dolores! Sit, 
+                            nam obcaecati perspiciatis au</p>
+                            <a href="#" class="btn"></a>
+                    </div>
+                </div>
+
+                <div class="work">
+                    <img src="../../../assets/images/work-2.png" alt="" srcset="">
+                    <div class="layer">
+
+                        <h3>Social Media</h3>
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Similique deserunt nemo voluptatem dolores! Sit, 
+                            nam obcaecati perspiciatis au</p>
+                            <a href="#" class="btn">
+                                <span class="material-symbols-outlined">
+                                    chevron_right
+                                    </span>
+                            </a>
+                    </div>
+                </div>
+
+                <div class="work">
+                    <img src="../../../assets/images/work-3.png" alt="" srcset="">
+                    <div class="layer">
+
+                        <h3>Social Media</h3>
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Similique deserunt nemo voluptatem dolores! Sit, 
+                            nam obcaecati perspiciatis au</p>
+                            <a href="#" class="btn"></a>
+                    </div>
+                </div>
+               </div>
+        </div>
+    </div>
+
+
+    <!-- Contacts -->
+
+
+    <div id="contact">
+
+        <div class="container">
+            <div class="row">
+                <div class="contact-left">
+                        <h1 class="sub-title">Contact Me</h1>
+                        <p>contact@gkjk.com</p>
+                        <p>7003420196</p>
+                        <div class="social-icons">
+                            <a href="#"></a>
+
+                            <a href="#"></a>
+                            <a href="#"></a>
+                            <a href="#"></a>
+                            <a href="#"></a>
+                        </div>
+
+                       
+                        
+                </div>
+
+                <div class="contact-right">
+
+                    <form action="">
+
+                        <input type="text" name="name" placeholder="Enter Your Name" required>
+                        <input type="text" name="email" placeholder="Enter Your Email" required>
+                       <textarea name="Your message" placeholder="Enter Your Message" rows="6"></textarea>
+                       <button type="submit" class="btn btn-2">Submit</button>
+                    </form>
+
+                </div>
+            </div>
+        </div>
+
+    </div>
+
+
+    <div class="copyright">
+        <p>Copyright © Shaayer Mukherjee 2023. Developed by Shubhayu Dasgupta</p>
+    </div>
