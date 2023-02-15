@@ -1,0 +1,112 @@
+{
+    "aboutMe":{
+        "experience":[
+            "Vivo",
+            "Westin",
+            "Asus",
+            "OYO",
+            "JW Mariott",
+            "Bubble Tea",
+            "Nikon"
+        ],
+        "achievement":[
+            {
+                "title":"First Prize",
+                "desc":"Nikon Photo contest"
+            },
+            {
+                "title":"First Prize",
+                "desc":"Nikon Photo contest"
+            },
+            {
+                "title":"First Prize",
+                "desc":"Nikon Photo contest"
+            }
+        ]
+    },
+
+    "brands":[
+"https://res.cloudinary.com/duumuebzt/image/upload/v1676475672/Shaayer%20Portfolio/brands/pic_1968-removebg-preview_hqul6q.png",
+"https://res.cloudinary.com/duumuebzt/image/upload/v1676475728/Shaayer%20Portfolio/brands/download__1_-removebg-preview_snwwfl.png",
+"https://res.cloudinary.com/duumuebzt/image/upload/v1676475768/Shaayer%20Portfolio/brands/download-removebg-preview_mg9yqj.png",
+"https://res.cloudinary.com/duumuebzt/image/upload/v1676475800/Shaayer%20Portfolio/brands/download-removebg-preview_1_kjgdkl.png",
+"https://res.cloudinary.com/duumuebzt/image/upload/v1676475839/Shaayer%20Portfolio/brands/images-removebg-preview_ixrrq5.png",
+"https://res.cloudinary.com/duumuebzt/image/upload/v1676475899/Shaayer%20Portfolio/brands/logo-removebg-preview_xzx2vi.png",
+"https://res.cloudinary.com/duumuebzt/image/upload/v1676475966/Shaayer%20Portfolio/brands/OYO_Rooms__logo_cbfcmf.png",
+"https://res.cloudinary.com/duumuebzt/image/upload/v1676475965/Shaayer%20Portfolio/brands/jw-marriott-hotel-resorts-logo-png-transparent_e4dmkd.png"
+
+    ],
+
+    "work":[
+        {
+            "title":"Colours of Ladakh",
+            "description":"ojdhggygygyyhbghbhhhhgh",
+            "pictureList":[
+"https://res.cloudinary.com/duumuebzt/image/upload/v1676478894/Shaayer%20Portfolio/stories%20of%20ladakh/IMG_5838_xunfp5.jpg",
+"https://res.cloudinary.com/duumuebzt/image/upload/v1676478893/Shaayer%20Portfolio/stories%20of%20ladakh/IMG_5837_zg0qmn.jpg",
+"https://res.cloudinary.com/duumuebzt/image/upload/v1676478893/Shaayer%20Portfolio/stories%20of%20ladakh/IMG_5833_rgcoru.jpg",
+"https://res.cloudinary.com/duumuebzt/image/upload/v1676478893/Shaayer%20Portfolio/stories%20of%20ladakh/IMG_5834_pmolan.jpg",
+"https://res.cloudinary.com/duumuebzt/image/upload/v1676478893/Shaayer%20Portfolio/stories%20of%20ladakh/IMG_5836_y9jop2.jpg",
+"https://res.cloudinary.com/duumuebzt/image/upload/v1676478893/Shaayer%20Portfolio/stories%20of%20ladakh/IMG_5831_hcrltg.jpg",
+"https://res.cloudinary.com/duumuebzt/image/upload/v1676478893/Shaayer%20Portfolio/stories%20of%20ladakh/IMG_5835_ij4nka.jpg",
+"https://res.cloudinary.com/duumuebzt/image/upload/v1676478892/Shaayer%20Portfolio/stories%20of%20ladakh/IMG_5832_d3276r.jpg"
+            ],
+            "coverPhoto":"https://res.cloudinary.com/duumuebzt/image/upload/v1676478893/Shaayer%20Portfolio/stories%20of%20ladakh/IMG_5831_hcrltg.jpg"
+        },
+        {
+            "title":"Colours of Ladakh",
+            "description":"ojdhggygygyyhbghbhhhhgh",
+            "pictureList":[
+
+            ],
+            "coverPhoto":"https://res.cloudinary.com/duumuebzt/image/upload/v1676478893/Shaayer%20Portfolio/stories%20of%20ladakh/IMG_5835_ij4nka.jpg"
+        },
+        {
+            "title":"Colours of Ladakh",
+            "description":"ojdhggygygyyhbghbhhhhgh",
+            "pictureList":[
+
+            ],
+            "coverPhoto":"https://res.cloudinary.com/duumuebzt/image/upload/v1676478893/Shaayer%20Portfolio/stories%20of%20ladakh/IMG_5835_ij4nka.jpg"
+        }
+    ]
+
+    ,
+    "photowalks":[
+
+        "https://res.cloudinary.com/duumuebzt/image/upload/v1676481371/Shaayer%20Portfolio/photowalks/c10b1374-7353-44f3-b6b2-fe6255bf4f24_ekzbhm.jpg",
+        "https://res.cloudinary.com/duumuebzt/image/upload/v1676481383/Shaayer%20Portfolio/photowalks/IMG_3868_bwqajx.jpg",
+        "https://res.cloudinary.com/duumuebzt/image/upload/v1676481381/Shaayer%20Portfolio/photowalks/IMG_4643_syh9y4.jpg",
+        "https://res.cloudinary.com/duumuebzt/image/upload/v1676481378/Shaayer%20Portfolio/photowalks/IMG_5790_rko1oc.jpg",
+        "https://res.cloudinary.com/duumuebzt/image/upload/v1676481378/Shaayer%20Portfolio/photowalks/IMG_5794_sgk0ay.jpg",
+        "https://res.cloudinary.com/duumuebzt/image/upload/v1676481373/Shaayer%20Portfolio/photowalks/IMG_5789_rdv7oe.jpg"
+    ]
+
+    ,
+    "workshops":[
+        {
+            "title":"Colours of Ladakh",
+            "description":"ojdhggygygyyhbghbhhhhgh",
+            "pictureList":[
+
+            ],
+            "coverPhoto":""
+        },
+        {
+            "title":"Colours of Ladakh",
+            "description":"ojdhggygygyyhbghbhhhhgh",
+            "pictureList":[
+
+            ],
+            "coverPhoto":""
+        },
+        {
+            "title":"Colours of Ladakh",
+            "description":"ojdhggygygyyhbghbhhhhgh",
+            "pictureList":[
+
+            ],
+            "coverPhoto":""
+        }
+    ]
+}

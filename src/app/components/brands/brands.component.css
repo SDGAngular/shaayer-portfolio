@@ -15,7 +15,7 @@
 	margin: auto;
 	overflow: hidden;
 	position: relative;
-	width: 960px;
+	width: 696px;
   }
   .slider::before, .slider::after {
   /*   background: linear-gradient(to right, rgba(255, 255, 255, 1) 0%, rgba(255, 255, 255, 0) 100%); */
@@ -40,11 +40,15 @@
 	width: calc(250px * 14);
   }
   .slider .slide {
-	height: 100px;
+	height: 250px;
 	width: 250px;
 	padding-left: 20px;
   }
   
+
+  .each-brand{
+	filter: grayscale(100%);
+  }
   @media only screen and (max-width:600px) {
 
 	.slider{

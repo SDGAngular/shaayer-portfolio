@@ -1,16 +1,13 @@
 
 
-<app-header>
-    
-</app-header>
 
 <div class="container">
 
     <div class="gallery">
 
-        <a  *ngFor="let eachImg of imageList" [href]="imagesrc" data-lightbox="models" data-title="caption-1">
+        <a  *ngFor="let eachImg of pictureList;let imgIndex=index" [href]="eachImg" data-lightbox="models" >
 
-            <img  [src]="imagesrc" alt="shayer">
+            <img  [src]="eachImg" alt="shayer">
         </a>
 
       

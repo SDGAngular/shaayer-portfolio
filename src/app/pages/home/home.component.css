@@ -13,9 +13,12 @@
 nav{
     display: flex;
     align-items: center;
+
     justify-content: space-between;
     flex-wrap: wrap;
 }
+
+
 
 nav .fas{
    
@@ -30,12 +33,13 @@ nav .fas{
 nav ul li{
     display: inline-block;
     list-style: none;
+
     margin:10px 20px;
 
 }
 
 nav ul li a{
-    color: rgb(255, 253, 250);
+    color:#262626;
     text-decoration: none;
     position: relative;
     font-size: 18px;
@@ -86,6 +90,7 @@ nav ul li a:hover::after{
 
 .about-col-1{
     flex-basis:35%;
+   
 }
 
 .about-col-1 img{
@@ -96,6 +101,7 @@ nav ul li a:hover::after{
 
 .about-col-2{
     flex-basis:60%;
+    margin-left:40px;
 }
 
 .sub-title{
@@ -273,6 +279,7 @@ nav ul li a:hover::after{
 
 .work img{
     width:100%;
+    height:359px;
     display: block;
     border-radius: 10px;
     transition: transform 0.5s;
@@ -326,6 +333,7 @@ nav ul li a:hover::after{
     margin:50px auto;
     width:fit-content;
     border:1px solid #ff004f;
+    color: #000;
 
 
    }
@@ -445,18 +453,18 @@ nav ul li a:hover::after{
     
         }
         .header-text{
-            margin-top: 100%;
+            margin-top: 10%;
             font-size: 16px;
             position:absolute
         }
     
         .header-text h1{
-            font-size: 30px;
+            font-size: 50px;
         }
        
     
        nav ul{
-        background: #ff004f;
+        background: #313131;
         position: fixed;
         top:0;
         right:-200px;
@@ -464,6 +472,7 @@ nav ul li a:hover::after{
         z-index: 20;
         opacity: 0.9;
         height:100vh;
+        color:wheat;
         padding-top:50px;
         transition: right 0.5s;
     
@@ -473,6 +482,10 @@ nav ul li a:hover::after{
     nav ul li{
         display: block;
         margin:25px;
+        color:white
+    }
+    nav ul li a{
+        color:white
     }
     
     nav .fas{
@@ -498,10 +511,12 @@ nav ul li a:hover::after{
     
     .about-col-1{
         margin-bottom: 30px;
+        padding:14px;
     }
     
     .about-col-2{
         font-size: 14px;
+        margin-left: 3%;
     }
     
     .about-col-2 .about-desc{

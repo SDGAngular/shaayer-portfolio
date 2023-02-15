@@ -1,0 +1,27 @@
+<div class="slideshow-container" >
+    <ng-container *ngFor="let eachPicture of pictureList;let eachPicIndex=index">
+        <ng-container *ngIf="eachPicIndex===slideIndex">
+            <div class="mySlides" >
+        
+               
+              <div  class="numbertext">{{(eachPicIndex+1)+'/'+pictureList.length}}</div>
+              <img [src]="eachPicture" style="width:100%">
+        
+        
+            </div>
+        </ng-container> 
+
+
+    </ng-container>
+   
+ 
+    
+    <a class="prev" (click)="currentSlide(slideIndex-1)">❮</a>
+    <a class="next" (click)="currentSlide(slideIndex+1)">❯</a>
+    
+    </div>
+    <br>
+    
+    <div style="text-align:center"  >
+      <span [ngClass]="{'active':(slideIndex===eachPicIndex)}" *ngFor="let eachPicture of pictureList;let eachPicIndex=index" class="dot" (click)="currentSlide(eachPicIndex)"></span> 
+    </div>

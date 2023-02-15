@@ -1,4 +1,5 @@
 import { AfterViewInit, Component, OnInit } from '@angular/core';
+import { ActivatedRoute, Router } from '@angular/router';
 
 
 
@@ -36,14 +37,52 @@ export class HomeComponent implements OnInit, AfterViewInit {
     }
   ];
   isMenuHidden=false;
+  homeScreenDetails:any ={}
   selectedAbTab:string='expertise';
+  experienceList:any=[]; 
   typingList = ['Travel Photographer', 'Street Photographer','Wedding and Portrait Photographer']
 
+  constructor(private activatedRoute: ActivatedRoute, private router: Router){}
   ngOnInit(): void {
 
+   this.homeScreenDetails = this.activatedRoute.snapshot.data['homeDeatils'];
+   console.log(this.homeScreenDetails)
+
+this.setAboutMe(this.homeScreenDetails.aboutMe)
    
     
   
+  }
+
+
+  goToGallery(eachWork:any):void{
+
+    sessionStorage.setItem('gallery',JSON.stringify(eachWork));
+    this.router.navigate(['gallery']);
+
+  }
+
+  setAboutMe(aboutMe:any):void{
+
+    let counter =0;
+    let ls:any=[]
+    aboutMe.experience.forEach((eachExperience:any,index:number) => {
+
+      if(counter===3 || index===aboutMe.experience.length-1){
+        counter=0;
+        this.experienceList.push(ls);
+        ls=[];
+
+      }
+      else{
+        ls.push(eachExperience);
+        counter++;
+      }
+      
+    });
+
+    console.log(this.experienceList);
+
   }
 
   ngAfterViewInit(): void {

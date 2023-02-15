@@ -1,4 +1,4 @@
-import { Component, OnInit } from '@angular/core';
+import { Component, Input, OnInit } from '@angular/core';
 import * as $ from 'jquery';
 @Component({
   selector: 'app-brands',
@@ -7,18 +7,13 @@ import * as $ from 'jquery';
 })
 export class BrandsComponent implements OnInit {
 imagesSource = [
-  ".../../../../../assets/images/facebook.png",
-  ".../../../../../assets/images/google.png",
-  ".../../../../../assets/images/instagram.png",
-  ".../../../../../assets/images/instagram.png",
-  ".../../../../../assets/images/nike.png",
-  ".../../../../../assets/images/twitter.png",
-  ".../../../../../assets/images/google.png",
+
 
 
 ]
+@Input() brandImages:any;
   ngOnInit(): void {
-   
+   this.imagesSource= this.brandImages;
   }
 
 }

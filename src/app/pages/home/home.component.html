@@ -40,7 +40,11 @@
             <div class="about-col-2">
                 <h1 class="sub-title"> About Me</h1>
 
-                <p> Lorem ipsum dolor sit amet consectetur adipisicing elit. In dignissimos assumenda perspiciatis corrupti necessitatibus eum, odit sapiente accusantium quaerat commodi quas dolor iste quia molestias ducimus doloribus vitae repudiandae. In?</p>
+                <p> 
+
+                    Shaayer Mukherjee is a passionate photographer based out of Calcutta, India who is passionate about various genres of photography ranging from street to portraits, travel and wedding.He is has won several national and international titles and has been exhibited at various iconic venues He is currently working with Nikon as Official Nikon India Mentor with an overall experience of conducting 50+ workshops with brands like honor, asus , nikon etc
+
+                </p>
 
                 <div class="tab-titles">
                     <p [ngClass]="selectedAbTab==='expertise'?'active-link':''" (click)="setSelectedAboutTab('expertise')" class="tab-links">Expertise</p>
@@ -70,69 +74,28 @@
                     <p>Over the last 7 years , Shaayer has the experience of working with some amazing brands like</p>
                     <div style="display:flex">
                     
+                        
                     
-                        <ul class="">
-                            <li>
-                                <span>Vivo</span>
+                        <ul *ngFor="let eachList of experienceList" class="brands">
+                            <li *ngFor="let eachBrand of eachList">
+                                <span>{{eachBrand}}</span>
                                 
                             </li>
-                            <li>
-                                <span>Westin</span>
-                                
-                            </li>
-                            <li>
-                                <span>ITC</span>
-                              
-                            </li>
+                           
                         </ul>
 
-                        <ul class="brands">
-                            <li>
-                                <span>JW Marriott</span>
-                                
-                            </li>
-                            <li>
-                                <span>OYO</span>
-                                
-                            </li>
-                            <li>
-                                <span>Bubble Tea</span>
-                              
-                            </li>
-                        </ul>
-
-                        <ul class="brands">
-                            <li>
-                                <span>Bubble Tea</span>
-                                
-                            </li>
-                            <li>
-                                <span>Honor</span>
-                                
-                            </li>
-                            <li>
-                                <span>Asus</span>
-                              
-                            </li>
-                        </ul>
+                      
                     
                     </div>
                 </div>
 
                 <div *ngIf="selectedAbTab==='achievements'" class="tab-contents">
                     <ul>
-                        <li>
-                            <span>First Prize</span>
-                            <br>Nikon Photo-content
+                        <li *ngFor="let eachAchievement of homeScreenDetails.aboutMe.achievement">
+                            <span>{{eachAchievement.title}}</span>
+                            <br>{{eachAchievement.desc}}
                         </li>
-                        <li>
-                            <span>Featured in</span>
-                            <br>Street Photography International
-                        </li>
-                        <li>
-                            <span>Official Influencer</span>
-                            <br>Nikon
-                        </li>
+                        
                     </ul>
                 </div>
 
@@ -146,7 +109,7 @@
 
 <div class="container">
     <h1 class="sub-title"> Brand Collaboration</h1>
-    <app-brands></app-brands>
+    <app-brands [brandImages]="homeScreenDetails.brands"></app-brands>
 </div>
 <!-- brands section -->
 
@@ -219,46 +182,30 @@
                </h1>
 
                <div class="work-list">
-                <div class="work">
-                    <img src="../../../assets/images/work-1.png" alt="" srcset="">
+                <div *ngFor="let eachWork of homeScreenDetails.work" class="work">
+                    <img [src]="eachWork.coverPhoto" alt="" srcset="">
 
                     <div class="layer">
 
-                        <h3>Social Media</h3>
-                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Similique deserunt nemo voluptatem dolores! Sit, 
-                            nam obcaecati perspiciatis au</p>
-                            <a href="#" class="btn"></a>
+                        <h3>{{eachWork.title}}</h3>
+                        <p>{{eachWork.description}}</p>
+                            <a  (click)="goToGallery(eachWork)" class="btn">Explore</a>
                     </div>
                 </div>
 
-                <div class="work">
-                    <img src="../../../assets/images/work-2.png" alt="" srcset="">
-                    <div class="layer">
+              
 
-                        <h3>Social Media</h3>
-                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Similique deserunt nemo voluptatem dolores! Sit, 
-                            nam obcaecati perspiciatis au</p>
-                            <a href="#" class="btn">
-                                <span class="material-symbols-outlined">
-                                    chevron_right
-                                    </span>
-                            </a>
-                    </div>
-                </div>
-
-                <div class="work">
-                    <img src="../../../assets/images/work-3.png" alt="" srcset="">
-                    <div class="layer">
-
-                        <h3>Social Media</h3>
-                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Similique deserunt nemo voluptatem dolores! Sit, 
-                            nam obcaecati perspiciatis au</p>
-                            <a href="#" class="btn"></a>
-                    </div>
-                </div>
+              
                </div>
         </div>
     </div>
+
+
+    <div class="container">
+        <h1 class="sub-title">Workshops and Photowalks</h1>
+        <app-slide-show [pictureList]="homeScreenDetails.photowalks"></app-slide-show>
+    </div>
+
 
 
     <!-- Contacts -->
