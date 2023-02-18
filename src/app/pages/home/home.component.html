@@ -116,60 +116,6 @@
 
 
  
-      
-<!-- Services section -->
-    <div class="" id="services">
-        
-        <div class="container">
-            <h1 class="sub-title">
-                My services   
-               </h1>
-
-            <div class="service-list">
-
-                <div>
-                    <i class="fa-regular fa-plane"></i>
-                    <h2>Service Title</h2>
-                
-                    <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Cupiditate quia aliquid architecto, ipsa pariatur saepe alias fugit accusamus qui nobis debitis perferendis eius earum omnis fugiat. Cumque cum beatae commodi?
-                    Cumq</p>
-    
-                    <a href="#">Learn More</a>
-                </div>
-
-                <div>
-                    <i class="fa-regular fa-plane"></i>
-                    <h2>Service Title</h2>
-                
-                    <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Cupiditate quia aliquid architecto, ipsa pariatur saepe alias fugit accusamus qui nobis debitis perferendis eius earum omnis fugiat. Cumque cum beatae commodi?
-                    Cumq</p>
-    
-                    <a href="#">Learn More</a>
-                </div>
-
-                <div>
-                    <i class="fa-regular fa-plane"></i>
-                    <h2>Service Title</h2>
-                
-                    <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Cupiditate quia aliquid architecto, ipsa pariatur saepe alias fugit accusamus qui nobis debitis perferendis eius earum omnis fugiat. Cumque cum beatae commodi?
-                    Cumq</p>
-    
-                    <a href="#">Learn More</a>
-                </div>
-               
-                
-            </div>
-
-
-          
-
-            
-
-
-
-          
-        </div>
-    </div>
 
 
     <!-- Portfolio -->
@@ -201,12 +147,49 @@
     </div>
 
 
+
+          
+<!-- Services section -->
+<div class="" id="services">
+        
     <div class="container">
-        <h1 class="sub-title">Workshops and Photowalks</h1>
-        <app-slide-show [pictureList]="homeScreenDetails.photowalks"></app-slide-show>
+        <h1 class="sub-title">
+            My services   
+           </h1>
+
+        <div class="service-list">
+
+            <div *ngFor="let eachService of homeScreenDetails.serviceList">
+                <!-- <i class="fa-regular fa-plane"></i> -->
+                <h2>{{eachService.title}}</h2>
+            
+                <p>{{eachService.desc}}</p>
+
+
+            </div>
+
+          
+           
+            
+        </div>
+
+
+      
+
+        
+
+
+
+      
     </div>
+</div>
 
 
+<!-- Photowalks -->
+<div class="container">
+    <h1 class="sub-title">Workshops and Photowalks</h1>
+    <app-slide-show [pictureList]="homeScreenDetails.photowalks"></app-slide-show>
+</div>
 
     <!-- Contacts -->
 
@@ -217,15 +200,27 @@
             <div class="row">
                 <div class="contact-left">
                         <h1 class="sub-title">Contact Me</h1>
-                        <p>contact@gkjk.com</p>
-                        <p>7003420196</p>
+                        <p>
+                            <i class="fas fa-paper-plane"></i>
+                            shaayer111@gmail.com</p>
+                        <p>
+                            <i class="fas fa-phone-square-alt"></i>
+                            9903267162</p>
                         <div class="social-icons">
                             <a href="#"></a>
 
-                            <a href="#"></a>
-                            <a href="#"></a>
-                            <a href="#"></a>
-                            <a href="#"></a>
+                            <a href="https://www.facebook.com/shaayer">
+                                <i class="fab fa-facebook"></i>
+                            </a>
+                            <a href="https://twitter.com/shaazmukherjee">
+                                <i class="fab fa-twitter-square"></i>
+                            </a>
+                            <a href="https://www.instagram.com/shaayer.mukherjee/">
+                                <i class="fab fa-instagram"></i>
+                            </a>
+                            <a href="https://www.linkedin.com/in/shaayer-mukherjee-19a083164/">
+                                <i class="fab fa-linkedin"></i>
+                            </a>
                         </div>
 
                        
@@ -234,12 +229,12 @@
 
                 <div class="contact-right">
 
-                    <form action="">
+                    <form name="submit-to-google-sheet">
 
-                        <input type="text" name="name" placeholder="Enter Your Name" required>
-                        <input type="text" name="email" placeholder="Enter Your Email" required>
-                       <textarea name="Your message" placeholder="Enter Your Message" rows="6"></textarea>
-                       <button type="submit" class="btn btn-2">Submit</button>
+                        <input type="text" name="Name" placeholder="Enter Your Name" required>
+                        <input type="text" name="Email" placeholder="Enter Your Email" required>
+                       <textarea name="Message" placeholder="Enter Your Message" rows="6"></textarea>
+                       <button type="submit" (click)="captureFormData($event)" class="btn btn-2">Submit</button>
                     </form>
 
                 </div>

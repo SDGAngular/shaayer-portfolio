@@ -1,7 +1,7 @@
 {
-    "aboutMe":{
-        "experience":[
-            "Vivo",
+    "aboutMe": {
+        "experience": [
+            "Ambuja Neotia",
             "Westin",
             "Asus",
             "OYO",
@@ -9,104 +9,176 @@
             "Bubble Tea",
             "Nikon"
         ],
-        "achievement":[
+        "achievement": [
             {
-                "title":"First Prize",
-                "desc":"Nikon Photo contest"
+                "title": "Winner",
+                "desc": "Utkarsh Bangla West Bengal Government Photography"
             },
             {
-                "title":"First Prize",
-                "desc":"Nikon Photo contest"
+                "title": "Winner",
+                "desc": "ITC Sonar Ode to Bengal photography"
             },
             {
-                "title":"First Prize",
-                "desc":"Nikon Photo contest"
+                "title": "Winner",
+                "desc": "Nat Geo Yourshot"
+            },
+            {
+                "title": "Winner",
+                "desc": "Corporate Photography Contest"
+            },
+            {
+                "title": "Winner",
+                "desc": "Honor Photogapher of the Year"
+            },
+            {
+                "title": "Winner",
+                "desc": "Tata AIG Photographer of the Year"
+            },
+            {
+                "title":"Best Portrait Photographer of the Year",
+                "desc":"London Art Times Festival for the famous portrait series - “Athena”"
             }
         ]
     },
-
-    "brands":[
-"https://res.cloudinary.com/duumuebzt/image/upload/v1676475672/Shaayer%20Portfolio/brands/pic_1968-removebg-preview_hqul6q.png",
-"https://res.cloudinary.com/duumuebzt/image/upload/v1676475728/Shaayer%20Portfolio/brands/download__1_-removebg-preview_snwwfl.png",
-"https://res.cloudinary.com/duumuebzt/image/upload/v1676475768/Shaayer%20Portfolio/brands/download-removebg-preview_mg9yqj.png",
-"https://res.cloudinary.com/duumuebzt/image/upload/v1676475800/Shaayer%20Portfolio/brands/download-removebg-preview_1_kjgdkl.png",
-"https://res.cloudinary.com/duumuebzt/image/upload/v1676475839/Shaayer%20Portfolio/brands/images-removebg-preview_ixrrq5.png",
-"https://res.cloudinary.com/duumuebzt/image/upload/v1676475899/Shaayer%20Portfolio/brands/logo-removebg-preview_xzx2vi.png",
-"https://res.cloudinary.com/duumuebzt/image/upload/v1676475966/Shaayer%20Portfolio/brands/OYO_Rooms__logo_cbfcmf.png",
-"https://res.cloudinary.com/duumuebzt/image/upload/v1676475965/Shaayer%20Portfolio/brands/jw-marriott-hotel-resorts-logo-png-transparent_e4dmkd.png"
-
+    "brands": [
+        "https://res.cloudinary.com/duumuebzt/image/upload/v1676475672/Shaayer%20Portfolio/brands/pic_1968-removebg-preview_hqul6q.png",
+        "https://res.cloudinary.com/duumuebzt/image/upload/v1676475728/Shaayer%20Portfolio/brands/download__1_-removebg-preview_snwwfl.png",
+        "https://res.cloudinary.com/duumuebzt/image/upload/v1676475768/Shaayer%20Portfolio/brands/download-removebg-preview_mg9yqj.png",
+        "https://res.cloudinary.com/duumuebzt/image/upload/v1676475800/Shaayer%20Portfolio/brands/download-removebg-preview_1_kjgdkl.png",
+        "https://res.cloudinary.com/duumuebzt/image/upload/v1676475839/Shaayer%20Portfolio/brands/images-removebg-preview_ixrrq5.png",
+        "https://res.cloudinary.com/duumuebzt/image/upload/v1676475899/Shaayer%20Portfolio/brands/logo-removebg-preview_xzx2vi.png",
+        "https://res.cloudinary.com/duumuebzt/image/upload/v1676475966/Shaayer%20Portfolio/brands/OYO_Rooms__logo_cbfcmf.png",
+        "https://res.cloudinary.com/duumuebzt/image/upload/v1676475965/Shaayer%20Portfolio/brands/jw-marriott-hotel-resorts-logo-png-transparent_e4dmkd.png"
     ],
-
-    "work":[
+    "work": [
         {
-            "title":"Colours of Ladakh",
-            "description":"ojdhggygygyyhbghbhhhhgh",
-            "pictureList":[
-"https://res.cloudinary.com/duumuebzt/image/upload/v1676478894/Shaayer%20Portfolio/stories%20of%20ladakh/IMG_5838_xunfp5.jpg",
-"https://res.cloudinary.com/duumuebzt/image/upload/v1676478893/Shaayer%20Portfolio/stories%20of%20ladakh/IMG_5837_zg0qmn.jpg",
-"https://res.cloudinary.com/duumuebzt/image/upload/v1676478893/Shaayer%20Portfolio/stories%20of%20ladakh/IMG_5833_rgcoru.jpg",
-"https://res.cloudinary.com/duumuebzt/image/upload/v1676478893/Shaayer%20Portfolio/stories%20of%20ladakh/IMG_5834_pmolan.jpg",
-"https://res.cloudinary.com/duumuebzt/image/upload/v1676478893/Shaayer%20Portfolio/stories%20of%20ladakh/IMG_5836_y9jop2.jpg",
-"https://res.cloudinary.com/duumuebzt/image/upload/v1676478893/Shaayer%20Portfolio/stories%20of%20ladakh/IMG_5831_hcrltg.jpg",
-"https://res.cloudinary.com/duumuebzt/image/upload/v1676478893/Shaayer%20Portfolio/stories%20of%20ladakh/IMG_5835_ij4nka.jpg",
-"https://res.cloudinary.com/duumuebzt/image/upload/v1676478892/Shaayer%20Portfolio/stories%20of%20ladakh/IMG_5832_d3276r.jpg"
+            "title": "Floating Vegeatble Market",
+            "description": "ojdhggygygyyhbghbhhhhgh",
+            "pictureList": [
+                "https://res.cloudinary.com/duumuebzt/image/upload/v1676708952/Shaayer%20Portfolio/Floating%20Dal%20Lake%20Market/IMG_5952_nui8ng.jpg",
+                "https://res.cloudinary.com/duumuebzt/image/upload/v1676708952/Shaayer%20Portfolio/Floating%20Dal%20Lake%20Market/IMG_5953_qkulfm.jpg",
+                "https://res.cloudinary.com/duumuebzt/image/upload/v1676708951/Shaayer%20Portfolio/Floating%20Dal%20Lake%20Market/IMG_5948_xn7krl.jpg",
+                "https://res.cloudinary.com/duumuebzt/image/upload/v1676708952/Shaayer%20Portfolio/Floating%20Dal%20Lake%20Market/IMG_5946_b0ozlm.jpg",
+                "https://res.cloudinary.com/duumuebzt/image/upload/v1676708952/Shaayer%20Portfolio/Floating%20Dal%20Lake%20Market/IMG_5950_crrv9j.jpg",
+                "https://res.cloudinary.com/duumuebzt/image/upload/v1676708952/Shaayer%20Portfolio/Floating%20Dal%20Lake%20Market/IMG_5951_dgi2s1.jpg",
+                "https://res.cloudinary.com/duumuebzt/image/upload/v1676708952/Shaayer%20Portfolio/Floating%20Dal%20Lake%20Market/IMG_5951_dgi2s1.jpg",
+                "https://res.cloudinary.com/duumuebzt/image/upload/v1676708952/Shaayer%20Portfolio/Floating%20Dal%20Lake%20Market/IMG_5951_dgi2s1.jpg",
+                "https://res.cloudinary.com/duumuebzt/image/upload/v1676708951/Shaayer%20Portfolio/Floating%20Dal%20Lake%20Market/IMG_5949_yb6dkn.jpg",
+                "https://res.cloudinary.com/duumuebzt/image/upload/v1676708951/Shaayer%20Portfolio/Floating%20Dal%20Lake%20Market/IMG_5947_jvvcvk.jpg"
             ],
-            "coverPhoto":"https://res.cloudinary.com/duumuebzt/image/upload/v1676478893/Shaayer%20Portfolio/stories%20of%20ladakh/IMG_5831_hcrltg.jpg"
+            "coverPhoto": "https://res.cloudinary.com/duumuebzt/image/upload/v1676708952/Shaayer%20Portfolio/Floating%20Dal%20Lake%20Market/IMG_5946_b0ozlm.jpg"
         },
         {
-            "title":"Colours of Ladakh",
-            "description":"ojdhggygygyyhbghbhhhhgh",
-            "pictureList":[
-
+            "title": "Colours of Ladakh",
+            "description": "ojdhggygygyyhbghbhhhhgh",
+            "pictureList": [
+                "https://res.cloudinary.com/duumuebzt/image/upload/v1676478894/Shaayer%20Portfolio/stories%20of%20ladakh/IMG_5838_xunfp5.jpg",
+                "https://res.cloudinary.com/duumuebzt/image/upload/v1676478893/Shaayer%20Portfolio/stories%20of%20ladakh/IMG_5837_zg0qmn.jpg",
+                "https://res.cloudinary.com/duumuebzt/image/upload/v1676478893/Shaayer%20Portfolio/stories%20of%20ladakh/IMG_5833_rgcoru.jpg",
+                "https://res.cloudinary.com/duumuebzt/image/upload/v1676478893/Shaayer%20Portfolio/stories%20of%20ladakh/IMG_5834_pmolan.jpg",
+                "https://res.cloudinary.com/duumuebzt/image/upload/v1676478893/Shaayer%20Portfolio/stories%20of%20ladakh/IMG_5836_y9jop2.jpg",
+                "https://res.cloudinary.com/duumuebzt/image/upload/v1676478893/Shaayer%20Portfolio/stories%20of%20ladakh/IMG_5831_hcrltg.jpg",
+                "https://res.cloudinary.com/duumuebzt/image/upload/v1676478893/Shaayer%20Portfolio/stories%20of%20ladakh/IMG_5835_ij4nka.jpg",
+                "https://res.cloudinary.com/duumuebzt/image/upload/v1676478892/Shaayer%20Portfolio/stories%20of%20ladakh/IMG_5832_d3276r.jpg"
             ],
-            "coverPhoto":"https://res.cloudinary.com/duumuebzt/image/upload/v1676478893/Shaayer%20Portfolio/stories%20of%20ladakh/IMG_5835_ij4nka.jpg"
+            "coverPhoto": "https://res.cloudinary.com/duumuebzt/image/upload/v1676478893/Shaayer%20Portfolio/stories%20of%20ladakh/IMG_5835_ij4nka.jpg"
         },
         {
-            "title":"Colours of Ladakh",
-            "description":"ojdhggygygyyhbghbhhhhgh",
-            "pictureList":[
-
+            "title": "Along the Nubra Valley",
+            "description": "ojdhggygygyyhbghbhhhhgh",
+            "pictureList": [
+                "https://res.cloudinary.com/duumuebzt/image/upload/v1676706724/Shaayer%20Portfolio/nubra/IMG_5741_xxcvg7.jpg",
+                "https://res.cloudinary.com/duumuebzt/image/upload/v1676706724/Shaayer%20Portfolio/nubra/IMG_5937_nyqmrl.jpg",
+                "https://res.cloudinary.com/duumuebzt/image/upload/v1676706724/Shaayer%20Portfolio/nubra/IMG_5936_hlksu3.jpg",
+                "https://res.cloudinary.com/duumuebzt/image/upload/v1676706724/Shaayer%20Portfolio/nubra/IMG_5938_uqxwd6.jpg"
             ],
-            "coverPhoto":"https://res.cloudinary.com/duumuebzt/image/upload/v1676478893/Shaayer%20Portfolio/stories%20of%20ladakh/IMG_5835_ij4nka.jpg"
+            "coverPhoto": "https://res.cloudinary.com/duumuebzt/image/upload/v1676706724/Shaayer%20Portfolio/nubra/IMG_5937_nyqmrl.jpg"
+        },
+        {
+            "title": "Markets of Leh",
+            "description": "ojdhggygygyyhbghbhhhhgh",
+            "pictureList": [
+                "https://res.cloudinary.com/duumuebzt/image/upload/v1676708354/Shaayer%20Portfolio/Markets%20of%20Ladakh/IMG_5944_kd5nmh.jpg",
+                "https://res.cloudinary.com/duumuebzt/image/upload/v1676708354/Shaayer%20Portfolio/Markets%20of%20Ladakh/IMG_5941_powrlo.jpg",
+                "https://res.cloudinary.com/duumuebzt/image/upload/v1676708354/Shaayer%20Portfolio/Markets%20of%20Ladakh/IMG_5942_seiin7.jpg",
+                "https://res.cloudinary.com/duumuebzt/image/upload/v1676708354/Shaayer%20Portfolio/Markets%20of%20Ladakh/IMG_5943_tlp5ag.jpg",
+                "https://res.cloudinary.com/duumuebzt/image/upload/v1676708354/Shaayer%20Portfolio/Markets%20of%20Ladakh/IMG_5940_of1inh.jpg",
+                "https://res.cloudinary.com/duumuebzt/image/upload/v1676708354/Shaayer%20Portfolio/Markets%20of%20Ladakh/IMG_5945_nagnk9.jpg",
+                "https://res.cloudinary.com/duumuebzt/image/upload/v1676708353/Shaayer%20Portfolio/Markets%20of%20Ladakh/IMG_5939_wpxozc.jpg"
+            ],
+            "coverPhoto": "https://res.cloudinary.com/duumuebzt/image/upload/v1676708354/Shaayer%20Portfolio/Markets%20of%20Ladakh/IMG_5944_kd5nmh.jpg"
+        },
+        {
+            "title": "Woman's Day",
+            "description": "ojdhggygygyyhbghbhhhhgh",
+            "pictureList": [
+                "https://res.cloudinary.com/duumuebzt/image/upload/v1676709283/Shaayer%20Portfolio/Women%E2%80%99s%20Day/IMG_5968_hzfn5a.jpg",
+                "https://res.cloudinary.com/duumuebzt/image/upload/v1676709282/Shaayer%20Portfolio/Women%E2%80%99s%20Day/IMG_5960_maeytx.jpg",
+                "https://res.cloudinary.com/duumuebzt/image/upload/v1676709281/Shaayer%20Portfolio/Women%E2%80%99s%20Day/IMG_5967_k2anqs.jpg",
+                "https://res.cloudinary.com/duumuebzt/image/upload/v1676709281/Shaayer%20Portfolio/Women%E2%80%99s%20Day/IMG_5966_nzwgrc.jpg",
+                "https://res.cloudinary.com/duumuebzt/image/upload/v1676709281/Shaayer%20Portfolio/Women%E2%80%99s%20Day/IMG_5964_odx1lg.jpg",
+                "https://res.cloudinary.com/duumuebzt/image/upload/v1676709281/Shaayer%20Portfolio/Women%E2%80%99s%20Day/IMG_5965_t7syhm.jpg",
+                "https://res.cloudinary.com/duumuebzt/image/upload/v1676709281/Shaayer%20Portfolio/Women%E2%80%99s%20Day/IMG_5962_aqdtgp.jpg",
+                "https://res.cloudinary.com/duumuebzt/image/upload/v1676709280/Shaayer%20Portfolio/Women%E2%80%99s%20Day/IMG_5961_vegcq7.jpg",
+                "https://res.cloudinary.com/duumuebzt/image/upload/v1676709280/Shaayer%20Portfolio/Women%E2%80%99s%20Day/IMG_5963_pncaqn.jpg"
+            ],
+            "coverPhoto": "https://res.cloudinary.com/duumuebzt/image/upload/v1676709283/Shaayer%20Portfolio/Women%E2%80%99s%20Day/IMG_5968_hzfn5a.jpg"
+        },
+        {
+            "title": "Mahalaya",
+            "description": "ojdhggygygyyhbghbhhhhgh",
+            "pictureList": [
+                "https://res.cloudinary.com/duumuebzt/image/upload/v1676709538/Shaayer%20Portfolio/Mahalaya/IMG_5954_kvxhj0.jpg",
+                "https://res.cloudinary.com/duumuebzt/image/upload/v1676709538/Shaayer%20Portfolio/Mahalaya/IMG_5956_kq87fl.jpg",
+                "https://res.cloudinary.com/duumuebzt/image/upload/v1676709538/Shaayer%20Portfolio/Mahalaya/IMG_5957_rimr53.jpg",
+                "https://res.cloudinary.com/duumuebzt/image/upload/v1676709538/Shaayer%20Portfolio/Mahalaya/IMG_5955_dt3ikt.jpg",
+                "https://res.cloudinary.com/duumuebzt/image/upload/v1676709538/Shaayer%20Portfolio/Mahalaya/IMG_5959_yasgxy.jpg",
+                "https://res.cloudinary.com/duumuebzt/image/upload/v1676709538/Shaayer%20Portfolio/Mahalaya/IMG_5958_x166ww.jpg"
+            ],
+            "coverPhoto": "https://res.cloudinary.com/duumuebzt/image/upload/v1676709538/Shaayer%20Portfolio/Mahalaya/IMG_5959_yasgxy.jpg"
         }
-    ]
-
-    ,
-    "photowalks":[
-
+    ],
+    "photowalks": [
         "https://res.cloudinary.com/duumuebzt/image/upload/v1676481371/Shaayer%20Portfolio/photowalks/c10b1374-7353-44f3-b6b2-fe6255bf4f24_ekzbhm.jpg",
         "https://res.cloudinary.com/duumuebzt/image/upload/v1676481383/Shaayer%20Portfolio/photowalks/IMG_3868_bwqajx.jpg",
         "https://res.cloudinary.com/duumuebzt/image/upload/v1676481381/Shaayer%20Portfolio/photowalks/IMG_4643_syh9y4.jpg",
         "https://res.cloudinary.com/duumuebzt/image/upload/v1676481378/Shaayer%20Portfolio/photowalks/IMG_5790_rko1oc.jpg",
         "https://res.cloudinary.com/duumuebzt/image/upload/v1676481378/Shaayer%20Portfolio/photowalks/IMG_5794_sgk0ay.jpg",
         "https://res.cloudinary.com/duumuebzt/image/upload/v1676481373/Shaayer%20Portfolio/photowalks/IMG_5789_rdv7oe.jpg"
-    ]
-
-    ,
-    "workshops":[
+    ],
+    "workshops": [
         {
-            "title":"Colours of Ladakh",
-            "description":"ojdhggygygyyhbghbhhhhgh",
-            "pictureList":[
-
-            ],
-            "coverPhoto":""
+            "title": "Colours of Ladakh",
+            "description": "ojdhggygygyyhbghbhhhhgh",
+            "pictureList": [],
+            "coverPhoto": ""
         },
         {
-            "title":"Colours of Ladakh",
-            "description":"ojdhggygygyyhbghbhhhhgh",
-            "pictureList":[
-
-            ],
-            "coverPhoto":""
+            "title": "Colours of Ladakh",
+            "description": "ojdhggygygyyhbghbhhhhgh",
+            "pictureList": [],
+            "coverPhoto": ""
         },
         {
-            "title":"Colours of Ladakh",
-            "description":"ojdhggygygyyhbghbhhhhgh",
-            "pictureList":[
-
-            ],
-            "coverPhoto":""
+            "title": "Colours of Ladakh",
+            "description": "ojdhggygygyyhbghbhhhhgh",
+            "pictureList": [],
+            "coverPhoto": ""
         }
+    ],
+    "serviceList":[
+        {
+           "title": "Educator and Mentor",
+           "desc":"Experienced of delivering detailed lectures on photography via interactive sessions with a detailed focus on street, travel and wedding photography. With the experience of conducting 50+ workshops with leading brands and institutions like heritage, NRS Medical College etc , Shaayer is a seasoned educator and mentor"
+        },
+
+        {
+            "title": "Freelance Photographer",
+            "desc":"Shaayer is a seasoned photographer who has worked with leading brands commercially and has delivered fantastic results."
+         },
+         {
+            "title": "Documentation",
+            "desc":"Shaayer has a vide range of expertise in documenting intersting rituals , fetsivals and places. He has been shooting extensively since the last 5 years and he has documented multiple events both as a street and a wedding photographer"
+         }
     ]
 }

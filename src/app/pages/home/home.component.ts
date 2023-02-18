@@ -1,3 +1,4 @@
+import { HttpClient } from '@angular/common/http';
 import { AfterViewInit, Component, OnInit } from '@angular/core';
 import { ActivatedRoute, Router } from '@angular/router';
 
@@ -42,7 +43,7 @@ export class HomeComponent implements OnInit, AfterViewInit {
   experienceList:any=[]; 
   typingList = ['Travel Photographer', 'Street Photographer','Wedding and Portrait Photographer']
 
-  constructor(private activatedRoute: ActivatedRoute, private router: Router){}
+  constructor(private activatedRoute: ActivatedRoute, private router: Router,private http: HttpClient){}
   ngOnInit(): void {
 
    this.homeScreenDetails = this.activatedRoute.snapshot.data['homeDeatils'];
@@ -123,5 +124,20 @@ this.selectedAbTab=tab;
     }
   }
   
+
+  captureFormData(event:Event):void
+  {
+    const scriptURL = 'https://script.google.com/macros/s/AKfycbzoaY_8Sevjsu4QUg0M19gr87FGD-D3LAM-qO8YUfP1G8QXkMSBW-aT1QMtLGnz_jUMjg/exec';
+    const form :any= (document.forms as any)['submit-to-google-sheet']
+event.preventDefault();
+    const body = new FormData(form)
+    this.http.post(scriptURL,body).subscribe((data:any)=>{
+    })
+
+    // console.log(new FormData(form))
+    // fetch(scriptURL, { method: 'POST', body: new FormData(form)})
+    // .then(response => console.log('Success!', response))
+    // .catch(error => console.error('Error!', error.message))
+  }
 
 }
