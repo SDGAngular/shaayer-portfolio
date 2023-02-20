@@ -11,6 +11,7 @@ import { GalleryViewComponent } from './pages/gallery-view/gallery-view.componen
 import { HeaderComponent } from './components/header/header.component';
 import { FooterComponent } from './components/footer/footer.component';
 import { SlideShowComponent } from './components/slide-show/slide-show.component';
+import { AwardsComponent } from './components/awards/awards.component';
 
 @NgModule({
   declarations: [
@@ -20,7 +21,8 @@ import { SlideShowComponent } from './components/slide-show/slide-show.component
     GalleryViewComponent,
     HeaderComponent,
     FooterComponent,
-    SlideShowComponent
+    SlideShowComponent,
+    AwardsComponent
   ],
   imports: [
     BrowserModule,

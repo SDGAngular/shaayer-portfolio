@@ -35,8 +35,8 @@
                 "desc": "Tata AIG Photographer of the Year"
             },
             {
-                "title":"Best Portrait Photographer of the Year",
-                "desc":"London Art Times Festival for the famous portrait series - “Athena”"
+                "title": "Best Portrait Photographer of the Year",
+                "desc": "London Art Times Festival for the famous portrait series - “Athena”"
             }
         ]
     },
@@ -136,6 +136,43 @@
                 "https://res.cloudinary.com/duumuebzt/image/upload/v1676709538/Shaayer%20Portfolio/Mahalaya/IMG_5958_x166ww.jpg"
             ],
             "coverPhoto": "https://res.cloudinary.com/duumuebzt/image/upload/v1676709538/Shaayer%20Portfolio/Mahalaya/IMG_5959_yasgxy.jpg"
+        },
+        {
+            "title": "Wedding Diaries",
+            "description": "ojdhggygygyyhbghbhhhhgh",
+            "pictureList": [
+                "https://res.cloudinary.com/duumuebzt/image/upload/v1676899385/Shaayer%20Portfolio/wedding/IMG_6048_avnsrr.jpg",
+                "https://res.cloudinary.com/duumuebzt/image/upload/v1676899383/Shaayer%20Portfolio/wedding/IMG_6051_bqgie7.jpg",
+                "https://res.cloudinary.com/duumuebzt/image/upload/v1676899384/Shaayer%20Portfolio/wedding/IMG_6044_mxe4lk.jpg",
+                "https://res.cloudinary.com/duumuebzt/image/upload/v1676899384/Shaayer%20Portfolio/wedding/IMG_6045_nqxtif.jpg",
+                "https://res.cloudinary.com/duumuebzt/image/upload/v1676899384/Shaayer%20Portfolio/wedding/IMG_6047_gyf1ad.jpg",
+                "https://res.cloudinary.com/duumuebzt/image/upload/v1676899383/Shaayer%20Portfolio/wedding/IMG_6050_yq8etg.jpg",
+                "https://res.cloudinary.com/duumuebzt/image/upload/v1676899383/Shaayer%20Portfolio/wedding/IMG_6049_sctbht.jpg",
+                "https://res.cloudinary.com/duumuebzt/image/upload/v1676899381/Shaayer%20Portfolio/wedding/IMG_6040_mcpoxf.jpg",
+                "https://res.cloudinary.com/duumuebzt/image/upload/v1676899382/Shaayer%20Portfolio/wedding/IMG_6041_njqkoi.jpg",
+                "https://res.cloudinary.com/duumuebzt/image/upload/v1676899382/Shaayer%20Portfolio/wedding/IMG_6042_zupbky.jpg",
+                "https://res.cloudinary.com/duumuebzt/image/upload/v1676899382/Shaayer%20Portfolio/wedding/IMG_6046_rnmog3.jpg",
+                "https://res.cloudinary.com/duumuebzt/image/upload/v1676899382/Shaayer%20Portfolio/wedding/IMG_6043_yhlnvp.jpg",
+                "https://res.cloudinary.com/duumuebzt/image/upload/v1676899381/Shaayer%20Portfolio/wedding/IMG_6038_wyityr.jpg",
+                "https://res.cloudinary.com/duumuebzt/image/upload/v1676899381/Shaayer%20Portfolio/wedding/IMG_3138_qon2v0.jpg",
+                "https://res.cloudinary.com/duumuebzt/image/upload/v1676899381/Shaayer%20Portfolio/wedding/IMG_6039_ihkeng.jpg",
+                "https://res.cloudinary.com/duumuebzt/image/upload/v1676899381/Shaayer%20Portfolio/wedding/IMG_6037_btuxho.jpg",
+                "https://res.cloudinary.com/duumuebzt/image/upload/v1676899381/Shaayer%20Portfolio/wedding/IMG_3137_qthmfe.jpg",
+                "https://res.cloudinary.com/duumuebzt/image/upload/v1676899381/Shaayer%20Portfolio/wedding/IMG_3136_uuolfw.jpg",
+                "https://res.cloudinary.com/duumuebzt/image/upload/v1676899380/Shaayer%20Portfolio/wedding/IMG_3135_navswa.jpg",
+                "https://res.cloudinary.com/duumuebzt/image/upload/v1676899380/Shaayer%20Portfolio/wedding/IMG_3134_ydsbrf.jpg",
+                "https://res.cloudinary.com/duumuebzt/image/upload/v1676899380/Shaayer%20Portfolio/wedding/IMG_3132_qqyocn.jpg",
+                "https://res.cloudinary.com/duumuebzt/image/upload/v1676899379/Shaayer%20Portfolio/wedding/a7fe6331-7199-4476-91f2-25ceafca11c7_avfu4x.jpg",
+                "https://res.cloudinary.com/duumuebzt/image/upload/v1676899379/Shaayer%20Portfolio/wedding/a7fe6331-7199-4476-91f2-25ceafca11c7_avfu4x.jpg",
+                "https://res.cloudinary.com/duumuebzt/image/upload/v1676899380/Shaayer%20Portfolio/wedding/e409f975-2088-4a67-bb6e-e6c937c6cd83_rzqqlj.jpg",
+                "https://res.cloudinary.com/duumuebzt/image/upload/v1676899379/Shaayer%20Portfolio/wedding/acd53db7-6434-422d-b9e9-53153bae8873_fpeifr.jpg",
+                "https://res.cloudinary.com/duumuebzt/image/upload/v1676899379/Shaayer%20Portfolio/wedding/86927aca-3d4f-4f11-95af-835d5f798312_mfkjxe.jpg",
+                "https://res.cloudinary.com/duumuebzt/image/upload/v1676899379/Shaayer%20Portfolio/wedding/3a5942d2-4149-42ba-8659-97b9516a1864_rhe6jl.jpg",
+                "https://res.cloudinary.com/duumuebzt/image/upload/v1676899379/Shaayer%20Portfolio/wedding/0839edcf-0f98-4aa8-bf71-83a516c7ca00_a6aurx.jpg",
+                "https://res.cloudinary.com/duumuebzt/image/upload/v1676899379/Shaayer%20Portfolio/wedding/139359f6-3b0b-4d0e-bf11-82704e813f99_tqlrde.jpg",
+                "https://res.cloudinary.com/duumuebzt/image/upload/v1676899379/Shaayer%20Portfolio/wedding/627d877d-3264-4aee-b830-dc11b9c27a03_u9pu6t.jpg"
+            ],
+            "coverPhoto": "https://res.cloudinary.com/duumuebzt/image/upload/v1676899381/Shaayer%20Portfolio/wedding/IMG_3138_qon2v0.jpg"
         }
     ],
     "photowalks": [
@@ -166,19 +203,18 @@
             "coverPhoto": ""
         }
     ],
-    "serviceList":[
+    "serviceList": [
         {
-           "title": "Educator and Mentor",
-           "desc":"Experienced of delivering detailed lectures on photography via interactive sessions with a detailed focus on street, travel and wedding photography. With the experience of conducting 50+ workshops with leading brands and institutions like heritage, NRS Medical College etc , Shaayer is a seasoned educator and mentor"
+            "title": "Educator and Mentor",
+            "desc": "Experienced of delivering detailed lectures on photography via interactive sessions with a detailed focus on street, travel and wedding photography. With the experience of conducting 50+ workshops with leading brands and institutions like heritage, NRS Medical College etc , Shaayer is a seasoned educator and mentor"
         },
-
         {
             "title": "Freelance Photographer",
-            "desc":"Shaayer is a seasoned photographer who has worked with leading brands commercially and has delivered fantastic results."
-         },
-         {
+            "desc": "Shaayer is a seasoned photographer who has worked with leading brands commercially and has delivered fantastic results."
+        },
+        {
             "title": "Documentation",
-            "desc":"Shaayer has a vide range of expertise in documenting intersting rituals , fetsivals and places. He has been shooting extensively since the last 5 years and he has documented multiple events both as a street and a wedding photographer"
-         }
+            "desc": "Shaayer has a vide range of expertise in documenting intersting rituals , fetsivals and places. He has been shooting extensively since the last 5 years and he has documented multiple events both as a street and a wedding photographer"
+        }
     ]
 }
