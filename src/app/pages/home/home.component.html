@@ -4,8 +4,8 @@
         <nav>
             <img class="logo" src="../../../assets/images/signature.png" alt="logo">
             <ul id="side-bar">
-                <li *ngFor="let eachHeader of headerList">
-                    <a [href]="eachHeader.id"> {{eachHeader.value}}</a>
+                <li style="cursor:pointer" (click)="scrollToSection(eachHeader)" *ngFor="let eachHeader of headerList">
+                    <a> {{eachHeader.value}}</a>
                 </li>
                 <i (click)="showMenu(false)" class="fas fa-times"></i>
             </ul>
@@ -105,16 +105,16 @@
 </div>
 
 
-   
-<div class="container">
+  <!-- brands section --> 
+<div class="container" id="brands">
     <h1 class="sub-title"> Brand Collaboration</h1>
     <app-brands [brandImages]="homeScreenDetails.brands"></app-brands>
 </div>
-<!-- brands section -->
 
 
 
-<div class="container">
+<!-- Wall of fame/ Awards section -->
+<div class="container" id="awards">
     <h1 class="sub-title"> Wall of Fame</h1>
     <app-awards [awardList]="homeScreenDetails.aboutMe.achievement"></app-awards>
 </div>
@@ -134,7 +134,7 @@
                </h1>
 
                <div class="work-list">
-                <div *ngFor="let eachWork of homeScreenDetails.work" class="work">
+                <div *ngFor="let eachWork of displayedWork" class="work">
                     <img [src]="eachWork.coverPhoto" alt="" srcset="">
 
                     <div class="layer">
@@ -145,11 +145,15 @@
                     </div>
                 </div>
 
+                
+
               
 
               
-               </div>
+               </div> 
+               <button *ngIf="displayedWork.length<homeScreenDetails.work.length" type="submit" style="display:block" (click)="showAllWork()" class="btn btn-2">Load More</button>   
         </div>
+        
     </div>
 
 
@@ -192,7 +196,7 @@
 
 
 <!-- Photowalks -->
-<div class="container">
+<div class="container" id="workshops">
     <h1 class="sub-title">Workshops and Photowalks</h1>
     <app-slide-show [pictureList]="homeScreenDetails.photowalks"></app-slide-show>
 </div>
@@ -250,6 +254,6 @@
     </div>
 
 
-    <div class="copyright">
+    <div class="copyright" id="Copyright-info">
         <p>Copyright © Shaayer Mukherjee 2023. Developed by Shubhayu Dasgupta</p>
     </div>

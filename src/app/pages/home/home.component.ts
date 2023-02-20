@@ -15,21 +15,30 @@ export class HomeComponent implements OnInit, AfterViewInit {
 
   headerList:any= [
 
-    {
-      id:'#header',
-      value:'Home'
-    },
+   
     {
       id:'#about',
       value:'About'
+    },
+    {
+      id:'#brands',
+      value:'Brands'
+    },
+    {
+      id:'#awards',
+      value:'Awards'
+    },
+    {
+      id:'#portfolio',
+      value:'Portfolio'
     },
     {
       id:'#services',
       value:'Services'
     },
     {
-      id:'#portfolio',
-      value:'Categories'
+      id:'#workshops',
+      value:'Workshops'
     }
     ,
     {
@@ -42,6 +51,7 @@ export class HomeComponent implements OnInit, AfterViewInit {
   selectedAbTab:string='expertise';
   experienceList:any=[]; 
   typingList = ['Travel Photographer', 'Street Photographer','Wedding and Portrait Photographer']
+  displayedWork:any=[];
 
   constructor(private activatedRoute: ActivatedRoute, private router: Router,private http: HttpClient){}
   ngOnInit(): void {
@@ -61,6 +71,13 @@ this.setAboutMe(this.homeScreenDetails.aboutMe)
     sessionStorage.setItem('gallery',JSON.stringify(eachWork));
     this.router.navigate(['gallery']);
 
+  }
+  scrollToSection(eachHeader:any):void{
+
+    const id = eachHeader.id.slice(1,);
+    console.log(id);
+    const targetSection = document.getElementById(id);
+    targetSection?.scrollIntoView()
   }
 
   setAboutMe(aboutMe:any):void{
@@ -82,8 +99,14 @@ this.setAboutMe(this.homeScreenDetails.aboutMe)
       
     });
 
+    this.displayedWork= this.homeScreenDetails.work.slice(0,6);
+
     console.log(this.experienceList);
 
+  }
+
+  showAllWork():void{
+    this.displayedWork= this.homeScreenDetails.work
   }
 
   ngAfterViewInit(): void {
