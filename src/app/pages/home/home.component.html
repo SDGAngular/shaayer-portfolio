@@ -41,8 +41,8 @@
                 <h1 class="sub-title"> About Me</h1>
 
                 <p> 
-
-                    Shaayer Mukherjee is a passionate photographer based out of Calcutta, India who is passionate about various genres of photography ranging from street to portraits, travel and wedding.He is has won several national and international titles and has been exhibited at various iconic venues He is currently working with Nikon as Official Nikon India Mentor with an overall experience of conducting 50+ workshops with brands like honor, asus , nikon etc
+                
+                    {{homeScreenDetails.aboutMe.description}}
 
                 </p>
 
@@ -66,6 +66,10 @@
                             <span>Wedding and Potraits</span>
                             <br>Capturing your special moments to make them immortal
                         </li>
+                        <li>
+                            <span>Food Photography</span>
+                            <br>Capturing some lip smacking dishes for your brand
+                        </li>
                     </ul>
                 </div>
 
@@ -78,7 +82,7 @@
                     
                         <ul *ngFor="let eachList of experienceList" class="brands">
                             <li *ngFor="let eachBrand of eachList">
-                                <span>{{eachBrand}}</span>
+                                <span>{{eachBrand | uppercase}}</span>
                                 
                             </li>
                            
@@ -212,10 +216,10 @@
                         <h1 class="sub-title">Contact Me</h1>
                         <p>
                             <i class="fas fa-paper-plane"></i>
-                            shaayer111@gmail.com</p>
-                        <p>
+                            hello@shaayer-mukherjee.com</p>
+                        <!-- <p>
                             <i class="fas fa-phone-square-alt"></i>
-                            9903287162</p>
+                            9903287162</p> -->
                         <div class="social-icons">
                             <a href="#"></a>
 
@@ -228,9 +232,7 @@
                             <a href="https://www.instagram.com/shaayer.mukherjee/">
                                 <i class="fab fa-instagram"></i>
                             </a>
-                            <a href="https://www.linkedin.com/in/shaayer-mukherjee-19a083164/">
-                                <i class="fab fa-linkedin"></i>
-                            </a>
+                           
                         </div>
 
                        

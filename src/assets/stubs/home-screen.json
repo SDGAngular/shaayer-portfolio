@@ -1,5 +1,6 @@
 {
     "aboutMe": {
+        "description":"Shaayer Mukherjee is a passionate photographer based out of Calcutta, India who is passionate about various genres of photography ranging from street to portraits, travel and wedding.He is has won several national and international titles and has been exhibited at various iconic venues He is currently working with NIKON as Official NIKON India Mentor with an overall experience of conducting 50+ workshops with brands like HONOR, ASUS , NIKON0.0, etc",
         "experience": [
             "Ambuja Neotia",
             "Westin",
@@ -52,94 +53,68 @@
     ],
     "work": [
         {
-            "title": "Floating Vegeatble Market",
-            "description": "ojdhggygygyyhbghbhhhhgh",
+            "title": "Street Stories",
+            "description": "",
             "pictureList": [
-                "https://res.cloudinary.com/duumuebzt/image/upload/v1676708952/Shaayer%20Portfolio/Floating%20Dal%20Lake%20Market/IMG_5952_nui8ng.jpg",
-                "https://res.cloudinary.com/duumuebzt/image/upload/v1676708952/Shaayer%20Portfolio/Floating%20Dal%20Lake%20Market/IMG_5953_qkulfm.jpg",
-                "https://res.cloudinary.com/duumuebzt/image/upload/v1676708951/Shaayer%20Portfolio/Floating%20Dal%20Lake%20Market/IMG_5948_xn7krl.jpg",
-                "https://res.cloudinary.com/duumuebzt/image/upload/v1676708952/Shaayer%20Portfolio/Floating%20Dal%20Lake%20Market/IMG_5946_b0ozlm.jpg",
-                "https://res.cloudinary.com/duumuebzt/image/upload/v1676708952/Shaayer%20Portfolio/Floating%20Dal%20Lake%20Market/IMG_5950_crrv9j.jpg",
-                "https://res.cloudinary.com/duumuebzt/image/upload/v1676708952/Shaayer%20Portfolio/Floating%20Dal%20Lake%20Market/IMG_5951_dgi2s1.jpg",
-                "https://res.cloudinary.com/duumuebzt/image/upload/v1676708952/Shaayer%20Portfolio/Floating%20Dal%20Lake%20Market/IMG_5951_dgi2s1.jpg",
-                "https://res.cloudinary.com/duumuebzt/image/upload/v1676708952/Shaayer%20Portfolio/Floating%20Dal%20Lake%20Market/IMG_5951_dgi2s1.jpg",
-                "https://res.cloudinary.com/duumuebzt/image/upload/v1676708951/Shaayer%20Portfolio/Floating%20Dal%20Lake%20Market/IMG_5949_yb6dkn.jpg",
-                "https://res.cloudinary.com/duumuebzt/image/upload/v1676708951/Shaayer%20Portfolio/Floating%20Dal%20Lake%20Market/IMG_5947_jvvcvk.jpg"
+                "https://res.cloudinary.com/duumuebzt/image/upload/v1677436575/Shaayer%20Portfolio/Street%20Stories/IMG_6218_io8yew.jpg",
+                "https://res.cloudinary.com/duumuebzt/image/upload/v1677436574/Shaayer%20Portfolio/Street%20Stories/IMG_6207_hlzlcn.jpg",
+                "https://res.cloudinary.com/duumuebzt/image/upload/v1677436574/Shaayer%20Portfolio/Street%20Stories/IMG_6216_u1pyte.jpg",
+                "https://res.cloudinary.com/duumuebzt/image/upload/v1677436574/Shaayer%20Portfolio/Street%20Stories/IMG_6215_mihafn.jpg",
+                "https://res.cloudinary.com/duumuebzt/image/upload/v1677436573/Shaayer%20Portfolio/Street%20Stories/IMG_6209_seykbp.jpg",
+                "https://res.cloudinary.com/duumuebzt/image/upload/v1677436573/Shaayer%20Portfolio/Street%20Stories/IMG_6212_cslu1l.jpg",
+                "https://res.cloudinary.com/duumuebzt/image/upload/v1677436573/Shaayer%20Portfolio/Street%20Stories/IMG_6214_fkz0yf.jpg",
+                "https://res.cloudinary.com/duumuebzt/image/upload/v1677436573/Shaayer%20Portfolio/Street%20Stories/IMG_6211_viweo4.jpg",
+                "https://res.cloudinary.com/duumuebzt/image/upload/v1677436572/Shaayer%20Portfolio/Street%20Stories/IMG_6213_vimq4b.jpg",
+                "https://res.cloudinary.com/duumuebzt/image/upload/v1677436571/Shaayer%20Portfolio/Street%20Stories/IMG_6208_zr8dv6.jpg",
+                "https://res.cloudinary.com/duumuebzt/image/upload/v1677436571/Shaayer%20Portfolio/Street%20Stories/IMG_6204_ebgork.jpg",
+                "https://res.cloudinary.com/duumuebzt/image/upload/v1677436571/Shaayer%20Portfolio/Street%20Stories/IMG_6196_d0vopf.jpg",
+                "https://res.cloudinary.com/duumuebzt/image/upload/v1677436571/Shaayer%20Portfolio/Street%20Stories/IMG_6206_tv81hi.jpg",
+                "https://res.cloudinary.com/duumuebzt/image/upload/v1677436552/Shaayer%20Portfolio/Street%20Stories/IMG_2863_untnld.jpg",
+                "https://res.cloudinary.com/duumuebzt/image/upload/v1677436553/Shaayer%20Portfolio/Street%20Stories/IMG_3718_ljajgf.jpg",
+                "https://res.cloudinary.com/duumuebzt/image/upload/v1677436553/Shaayer%20Portfolio/Street%20Stories/IMG_2978_goc20t.jpg",
+                "https://res.cloudinary.com/duumuebzt/image/upload/v1677436553/Shaayer%20Portfolio/Street%20Stories/IMG_3764_in273r.jpg",
+                "https://res.cloudinary.com/duumuebzt/image/upload/v1677436553/Shaayer%20Portfolio/Street%20Stories/IMG_5755_klaypd.jpg",
+                "https://res.cloudinary.com/duumuebzt/image/upload/v1677436553/Shaayer%20Portfolio/Street%20Stories/IMG_5755_klaypd.jpg",
+                "https://res.cloudinary.com/duumuebzt/image/upload/v1677436553/Shaayer%20Portfolio/Street%20Stories/IMG_3719_iubdit.jpg",
+                "https://res.cloudinary.com/duumuebzt/image/upload/v1677436554/Shaayer%20Portfolio/Street%20Stories/IMG_5759_j54jez.jpg",
+                "https://res.cloudinary.com/duumuebzt/image/upload/v1677436554/Shaayer%20Portfolio/Street%20Stories/IMG_5760_udcedu.jpg",
+                "https://res.cloudinary.com/duumuebzt/image/upload/v1677436555/Shaayer%20Portfolio/Street%20Stories/IMG_5765_x72vh4.jpg",
+                "https://res.cloudinary.com/duumuebzt/image/upload/v1677436556/Shaayer%20Portfolio/Street%20Stories/IMG_5773_ew6w27.jpg",
+                "https://res.cloudinary.com/duumuebzt/image/upload/v1677436555/Shaayer%20Portfolio/Street%20Stories/IMG_5763_rarwi0.jpg",
+                "https://res.cloudinary.com/duumuebzt/image/upload/v1677436555/Shaayer%20Portfolio/Street%20Stories/IMG_5768_wumd4a.jpg",
+                "https://res.cloudinary.com/duumuebzt/image/upload/v1677436555/Shaayer%20Portfolio/Street%20Stories/IMG_5764_uf6t8k.jpg",
+                "https://res.cloudinary.com/duumuebzt/image/upload/v1677436556/Shaayer%20Portfolio/Street%20Stories/IMG_5771_tynz13.jpg",
+                "https://res.cloudinary.com/duumuebzt/image/upload/v1677436555/Shaayer%20Portfolio/Street%20Stories/IMG_5757_cl2p5h.jpg",
+                "https://res.cloudinary.com/duumuebzt/image/upload/v1677436556/Shaayer%20Portfolio/Street%20Stories/IMG_5775_gqyd3e.jpg",
+                "https://res.cloudinary.com/duumuebzt/image/upload/v1677436556/Shaayer%20Portfolio/Street%20Stories/IMG_5777_hj1ij2.jpg",
+                "https://res.cloudinary.com/duumuebzt/image/upload/v1677436558/Shaayer%20Portfolio/Street%20Stories/IMG_6133_zuefsm.jpg",
+                "https://res.cloudinary.com/duumuebzt/image/upload/v1677436558/Shaayer%20Portfolio/Street%20Stories/IMG_6121_ysyvsz.jpg",
+                "https://res.cloudinary.com/duumuebzt/image/upload/v1677436564/Shaayer%20Portfolio/Street%20Stories/IMG_6161_tumyk7.jpg",
+                "https://res.cloudinary.com/duumuebzt/image/upload/v1677436564/Shaayer%20Portfolio/Street%20Stories/IMG_6160_g5kx9h.jpg"
             ],
-            "coverPhoto": "https://res.cloudinary.com/duumuebzt/image/upload/v1676708952/Shaayer%20Portfolio/Floating%20Dal%20Lake%20Market/IMG_5946_b0ozlm.jpg"
+            "coverPhoto": "https://res.cloudinary.com/duumuebzt/image/upload/v1677436555/Shaayer%20Portfolio/Street%20Stories/IMG_5763_rarwi0.jpg"
         },
         {
-            "title": "Colours of Ladakh",
-            "description": "ojdhggygygyyhbghbhhhhgh",
+            "title": "Travel Stories",
+            "description": "",
             "pictureList": [
-                "https://res.cloudinary.com/duumuebzt/image/upload/v1676478894/Shaayer%20Portfolio/stories%20of%20ladakh/IMG_5838_xunfp5.jpg",
-                "https://res.cloudinary.com/duumuebzt/image/upload/v1676478893/Shaayer%20Portfolio/stories%20of%20ladakh/IMG_5837_zg0qmn.jpg",
-                "https://res.cloudinary.com/duumuebzt/image/upload/v1676478893/Shaayer%20Portfolio/stories%20of%20ladakh/IMG_5833_rgcoru.jpg",
-                "https://res.cloudinary.com/duumuebzt/image/upload/v1676478893/Shaayer%20Portfolio/stories%20of%20ladakh/IMG_5834_pmolan.jpg",
-                "https://res.cloudinary.com/duumuebzt/image/upload/v1676478893/Shaayer%20Portfolio/stories%20of%20ladakh/IMG_5836_y9jop2.jpg",
-                "https://res.cloudinary.com/duumuebzt/image/upload/v1676478893/Shaayer%20Portfolio/stories%20of%20ladakh/IMG_5831_hcrltg.jpg",
-                "https://res.cloudinary.com/duumuebzt/image/upload/v1676478893/Shaayer%20Portfolio/stories%20of%20ladakh/IMG_5835_ij4nka.jpg",
-                "https://res.cloudinary.com/duumuebzt/image/upload/v1676478892/Shaayer%20Portfolio/stories%20of%20ladakh/IMG_5832_d3276r.jpg"
+                "https://res.cloudinary.com/duumuebzt/image/upload/v1677437107/Shaayer%20Portfolio/Travel%20Diaries/IMG_4538_rshljx.jpg",
+                "https://res.cloudinary.com/duumuebzt/image/upload/v1677437101/Shaayer%20Portfolio/Travel%20Diaries/IMG_4533_swn7k5.jpg",
+                "https://res.cloudinary.com/duumuebzt/image/upload/v1677437102/Shaayer%20Portfolio/Travel%20Diaries/IMG_5442_qwifl1.jpg",
+                "https://res.cloudinary.com/duumuebzt/image/upload/v1677437099/Shaayer%20Portfolio/Travel%20Diaries/IMG_6209_yip0qd.jpg",
+                "https://res.cloudinary.com/duumuebzt/image/upload/v1677437100/Shaayer%20Portfolio/Travel%20Diaries/IMG_6208_lrwqil.jpg",
+                "https://res.cloudinary.com/duumuebzt/image/upload/v1677437098/Shaayer%20Portfolio/Travel%20Diaries/IMG_4510_tbn2xx.jpg",
+                "https://res.cloudinary.com/duumuebzt/image/upload/v1677437098/Shaayer%20Portfolio/Travel%20Diaries/IMG_6159_dqo3qm.jpg",
+                "https://res.cloudinary.com/duumuebzt/image/upload/v1677437095/Shaayer%20Portfolio/Travel%20Diaries/IMG_6154_bysbol.jpg",
+                "https://res.cloudinary.com/duumuebzt/image/upload/v1677437094/Shaayer%20Portfolio/Travel%20Diaries/IMG_6136_xbiaxq.jpg",
+                "https://res.cloudinary.com/duumuebzt/image/upload/v1677437093/Shaayer%20Portfolio/Travel%20Diaries/IMG_6131_whsk6g.jpg",
+                "https://res.cloudinary.com/duumuebzt/image/upload/v1677437086/Shaayer%20Portfolio/Travel%20Diaries/IMG_6126_ntocr4.jpg"
             ],
-            "coverPhoto": "https://res.cloudinary.com/duumuebzt/image/upload/v1676478893/Shaayer%20Portfolio/stories%20of%20ladakh/IMG_5835_ij4nka.jpg"
-        },
-        {
-            "title": "Along the Nubra Valley",
-            "description": "ojdhggygygyyhbghbhhhhgh",
-            "pictureList": [
-                "https://res.cloudinary.com/duumuebzt/image/upload/v1676706724/Shaayer%20Portfolio/nubra/IMG_5741_xxcvg7.jpg",
-                "https://res.cloudinary.com/duumuebzt/image/upload/v1676706724/Shaayer%20Portfolio/nubra/IMG_5937_nyqmrl.jpg",
-                "https://res.cloudinary.com/duumuebzt/image/upload/v1676706724/Shaayer%20Portfolio/nubra/IMG_5936_hlksu3.jpg",
-                "https://res.cloudinary.com/duumuebzt/image/upload/v1676706724/Shaayer%20Portfolio/nubra/IMG_5938_uqxwd6.jpg"
-            ],
-            "coverPhoto": "https://res.cloudinary.com/duumuebzt/image/upload/v1676706724/Shaayer%20Portfolio/nubra/IMG_5937_nyqmrl.jpg"
-        },
-        {
-            "title": "Markets of Leh",
-            "description": "ojdhggygygyyhbghbhhhhgh",
-            "pictureList": [
-                "https://res.cloudinary.com/duumuebzt/image/upload/v1676708354/Shaayer%20Portfolio/Markets%20of%20Ladakh/IMG_5944_kd5nmh.jpg",
-                "https://res.cloudinary.com/duumuebzt/image/upload/v1676708354/Shaayer%20Portfolio/Markets%20of%20Ladakh/IMG_5941_powrlo.jpg",
-                "https://res.cloudinary.com/duumuebzt/image/upload/v1676708354/Shaayer%20Portfolio/Markets%20of%20Ladakh/IMG_5942_seiin7.jpg",
-                "https://res.cloudinary.com/duumuebzt/image/upload/v1676708354/Shaayer%20Portfolio/Markets%20of%20Ladakh/IMG_5943_tlp5ag.jpg",
-                "https://res.cloudinary.com/duumuebzt/image/upload/v1676708354/Shaayer%20Portfolio/Markets%20of%20Ladakh/IMG_5940_of1inh.jpg",
-                "https://res.cloudinary.com/duumuebzt/image/upload/v1676708354/Shaayer%20Portfolio/Markets%20of%20Ladakh/IMG_5945_nagnk9.jpg",
-                "https://res.cloudinary.com/duumuebzt/image/upload/v1676708353/Shaayer%20Portfolio/Markets%20of%20Ladakh/IMG_5939_wpxozc.jpg"
-            ],
-            "coverPhoto": "https://res.cloudinary.com/duumuebzt/image/upload/v1676708354/Shaayer%20Portfolio/Markets%20of%20Ladakh/IMG_5944_kd5nmh.jpg"
-        },
-        {
-            "title": "Woman's Day",
-            "description": "ojdhggygygyyhbghbhhhhgh",
-            "pictureList": [
-                "https://res.cloudinary.com/duumuebzt/image/upload/v1676709283/Shaayer%20Portfolio/Women%E2%80%99s%20Day/IMG_5968_hzfn5a.jpg",
-                "https://res.cloudinary.com/duumuebzt/image/upload/v1676709282/Shaayer%20Portfolio/Women%E2%80%99s%20Day/IMG_5960_maeytx.jpg",
-                "https://res.cloudinary.com/duumuebzt/image/upload/v1676709281/Shaayer%20Portfolio/Women%E2%80%99s%20Day/IMG_5967_k2anqs.jpg",
-                "https://res.cloudinary.com/duumuebzt/image/upload/v1676709281/Shaayer%20Portfolio/Women%E2%80%99s%20Day/IMG_5966_nzwgrc.jpg",
-                "https://res.cloudinary.com/duumuebzt/image/upload/v1676709281/Shaayer%20Portfolio/Women%E2%80%99s%20Day/IMG_5964_odx1lg.jpg",
-                "https://res.cloudinary.com/duumuebzt/image/upload/v1676709281/Shaayer%20Portfolio/Women%E2%80%99s%20Day/IMG_5965_t7syhm.jpg",
-                "https://res.cloudinary.com/duumuebzt/image/upload/v1676709281/Shaayer%20Portfolio/Women%E2%80%99s%20Day/IMG_5962_aqdtgp.jpg",
-                "https://res.cloudinary.com/duumuebzt/image/upload/v1676709280/Shaayer%20Portfolio/Women%E2%80%99s%20Day/IMG_5961_vegcq7.jpg",
-                "https://res.cloudinary.com/duumuebzt/image/upload/v1676709280/Shaayer%20Portfolio/Women%E2%80%99s%20Day/IMG_5963_pncaqn.jpg"
-            ],
-            "coverPhoto": "https://res.cloudinary.com/duumuebzt/image/upload/v1676709283/Shaayer%20Portfolio/Women%E2%80%99s%20Day/IMG_5968_hzfn5a.jpg"
-        },
-        {
-            "title": "Mahalaya",
-            "description": "ojdhggygygyyhbghbhhhhgh",
-            "pictureList": [
-                "https://res.cloudinary.com/duumuebzt/image/upload/v1676709538/Shaayer%20Portfolio/Mahalaya/IMG_5954_kvxhj0.jpg",
-                "https://res.cloudinary.com/duumuebzt/image/upload/v1676709538/Shaayer%20Portfolio/Mahalaya/IMG_5956_kq87fl.jpg",
-                "https://res.cloudinary.com/duumuebzt/image/upload/v1676709538/Shaayer%20Portfolio/Mahalaya/IMG_5957_rimr53.jpg",
-                "https://res.cloudinary.com/duumuebzt/image/upload/v1676709538/Shaayer%20Portfolio/Mahalaya/IMG_5955_dt3ikt.jpg",
-                "https://res.cloudinary.com/duumuebzt/image/upload/v1676709538/Shaayer%20Portfolio/Mahalaya/IMG_5959_yasgxy.jpg",
-                "https://res.cloudinary.com/duumuebzt/image/upload/v1676709538/Shaayer%20Portfolio/Mahalaya/IMG_5958_x166ww.jpg"
-            ],
-            "coverPhoto": "https://res.cloudinary.com/duumuebzt/image/upload/v1676709538/Shaayer%20Portfolio/Mahalaya/IMG_5959_yasgxy.jpg"
+            "coverPhoto": "https://res.cloudinary.com/duumuebzt/image/upload/v1677437095/Shaayer%20Portfolio/Travel%20Diaries/IMG_6154_bysbol.jpg"
         },
         {
             "title": "Wedding Diaries",
-            "description": "ojdhggygygyyhbghbhhhhgh",
+            "description": "Weddings are one of the most auspicious days for any Indian family. Let that be the fun of rituals, bringing the whole family together, or the beautiful charm on the bride and groom’s faces. One cannot miss but capture the essence of this day.",
             "pictureList": [
                 "https://res.cloudinary.com/duumuebzt/image/upload/v1676899385/Shaayer%20Portfolio/wedding/IMG_6048_avnsrr.jpg",
                 "https://res.cloudinary.com/duumuebzt/image/upload/v1676899383/Shaayer%20Portfolio/wedding/IMG_6051_bqgie7.jpg",
@@ -173,6 +148,156 @@
                 "https://res.cloudinary.com/duumuebzt/image/upload/v1676899379/Shaayer%20Portfolio/wedding/627d877d-3264-4aee-b830-dc11b9c27a03_u9pu6t.jpg"
             ],
             "coverPhoto": "https://res.cloudinary.com/duumuebzt/image/upload/v1676899381/Shaayer%20Portfolio/wedding/IMG_3138_qon2v0.jpg"
+        },
+        {
+            "title": "Foodie Heaven",
+            "description": "",
+            "pictureList": [
+                "https://res.cloudinary.com/duumuebzt/image/upload/v1677436306/Shaayer%20Portfolio/Food/1a100454-299f-4cc9-a1d2-2bed5d0c4363_zz2yeh.jpg",
+                "https://res.cloudinary.com/duumuebzt/image/upload/v1677436307/Shaayer%20Portfolio/Food/DSC_0133_sw1nss.jpg",
+                "https://res.cloudinary.com/duumuebzt/image/upload/v1677436307/Shaayer%20Portfolio/Food/ee941a71-a545-42c3-81d9-748b17d99437_yceziq.jpg",
+                "https://res.cloudinary.com/duumuebzt/image/upload/v1677436305/Shaayer%20Portfolio/Food/d0f2ad3e-d521-4747-8a91-c08f2f16b163_ttgpub.jpg",
+                "https://res.cloudinary.com/duumuebzt/image/upload/v1677436305/Shaayer%20Portfolio/Food/027fc41a-1120-4d92-873e-918123924619_dqdv7n.jpg",
+                "https://res.cloudinary.com/duumuebzt/image/upload/v1677436305/Shaayer%20Portfolio/Food/43ced7c1-7692-4daa-981e-c20f9d8ee586_vg6om6.jpg",
+                "https://res.cloudinary.com/duumuebzt/image/upload/v1677436305/Shaayer%20Portfolio/Food/94a6f515-d4cd-4da3-a31c-af056c93c4bf_tc7opf.jpg"
+            ],
+            "coverPhoto": "https://res.cloudinary.com/duumuebzt/image/upload/v1677436306/Shaayer%20Portfolio/Food/1a100454-299f-4cc9-a1d2-2bed5d0c4363_zz2yeh.jpg"
+        },
+        {
+            "title": "Shikara rides for the soul",
+            "description": "Captured a glimpse of the Hanjis or boatmen of Kashmir. How their day starts and ends on the beautiful lakes of Kashmir. How for them it’s their daily affair to be amidst the charismatic beauty of Kashmir while the visitors are awestruck by its beauty.  The pictures are captured early in the morning around 4 AM when the vegetable and flower markets actually open.",
+            "pictureList": [
+                "https://res.cloudinary.com/duumuebzt/image/upload/v1676708952/Shaayer%20Portfolio/Floating%20Dal%20Lake%20Market/IMG_5952_nui8ng.jpg",
+                "https://res.cloudinary.com/duumuebzt/image/upload/v1676708952/Shaayer%20Portfolio/Floating%20Dal%20Lake%20Market/IMG_5953_qkulfm.jpg",
+                "https://res.cloudinary.com/duumuebzt/image/upload/v1676708951/Shaayer%20Portfolio/Floating%20Dal%20Lake%20Market/IMG_5948_xn7krl.jpg",
+                "https://res.cloudinary.com/duumuebzt/image/upload/v1676708952/Shaayer%20Portfolio/Floating%20Dal%20Lake%20Market/IMG_5946_b0ozlm.jpg",
+                "https://res.cloudinary.com/duumuebzt/image/upload/v1676708952/Shaayer%20Portfolio/Floating%20Dal%20Lake%20Market/IMG_5950_crrv9j.jpg",
+                "https://res.cloudinary.com/duumuebzt/image/upload/v1676708952/Shaayer%20Portfolio/Floating%20Dal%20Lake%20Market/IMG_5951_dgi2s1.jpg",
+                "https://res.cloudinary.com/duumuebzt/image/upload/v1676708952/Shaayer%20Portfolio/Floating%20Dal%20Lake%20Market/IMG_5951_dgi2s1.jpg",
+                "https://res.cloudinary.com/duumuebzt/image/upload/v1676708952/Shaayer%20Portfolio/Floating%20Dal%20Lake%20Market/IMG_5951_dgi2s1.jpg",
+                "https://res.cloudinary.com/duumuebzt/image/upload/v1676708951/Shaayer%20Portfolio/Floating%20Dal%20Lake%20Market/IMG_5949_yb6dkn.jpg",
+                "https://res.cloudinary.com/duumuebzt/image/upload/v1676708951/Shaayer%20Portfolio/Floating%20Dal%20Lake%20Market/IMG_5947_jvvcvk.jpg"
+            ],
+            "coverPhoto": "https://res.cloudinary.com/duumuebzt/image/upload/v1676708952/Shaayer%20Portfolio/Floating%20Dal%20Lake%20Market/IMG_5946_b0ozlm.jpg"
+        },
+        {
+            "title": "Ladakh – Also known as Little Tibet",
+            "description": "The blue hue, the crisp cold wind, and the earthy tones will satisfy the travel enthusiast in you. The peace in a place like this is something one can cherish for life.",
+            "pictureList": [
+                "https://res.cloudinary.com/duumuebzt/image/upload/v1676478894/Shaayer%20Portfolio/stories%20of%20ladakh/IMG_5838_xunfp5.jpg",
+                "https://res.cloudinary.com/duumuebzt/image/upload/v1676478893/Shaayer%20Portfolio/stories%20of%20ladakh/IMG_5837_zg0qmn.jpg",
+                "https://res.cloudinary.com/duumuebzt/image/upload/v1676478893/Shaayer%20Portfolio/stories%20of%20ladakh/IMG_5833_rgcoru.jpg",
+                "https://res.cloudinary.com/duumuebzt/image/upload/v1676478893/Shaayer%20Portfolio/stories%20of%20ladakh/IMG_5834_pmolan.jpg",
+                "https://res.cloudinary.com/duumuebzt/image/upload/v1676478893/Shaayer%20Portfolio/stories%20of%20ladakh/IMG_5836_y9jop2.jpg",
+                "https://res.cloudinary.com/duumuebzt/image/upload/v1676478893/Shaayer%20Portfolio/stories%20of%20ladakh/IMG_5831_hcrltg.jpg",
+                "https://res.cloudinary.com/duumuebzt/image/upload/v1676478893/Shaayer%20Portfolio/stories%20of%20ladakh/IMG_5835_ij4nka.jpg",
+                "https://res.cloudinary.com/duumuebzt/image/upload/v1676478892/Shaayer%20Portfolio/stories%20of%20ladakh/IMG_5832_d3276r.jpg"
+            ],
+            "coverPhoto": "https://res.cloudinary.com/duumuebzt/image/upload/v1676478893/Shaayer%20Portfolio/stories%20of%20ladakh/IMG_5835_ij4nka.jpg"
+        },
+        {
+            "title": "Along the Nubra Valley",
+            "description": "Your face instantly glows when you witness a sight like this. A train of camels walking by a range of mountains, all so surreal.",
+            "pictureList": [
+                "https://res.cloudinary.com/duumuebzt/image/upload/v1676706724/Shaayer%20Portfolio/nubra/IMG_5741_xxcvg7.jpg",
+                "https://res.cloudinary.com/duumuebzt/image/upload/v1676706724/Shaayer%20Portfolio/nubra/IMG_5937_nyqmrl.jpg",
+                "https://res.cloudinary.com/duumuebzt/image/upload/v1676706724/Shaayer%20Portfolio/nubra/IMG_5936_hlksu3.jpg",
+                "https://res.cloudinary.com/duumuebzt/image/upload/v1676706724/Shaayer%20Portfolio/nubra/IMG_5938_uqxwd6.jpg"
+            ],
+            "coverPhoto": "https://res.cloudinary.com/duumuebzt/image/upload/v1676706724/Shaayer%20Portfolio/nubra/IMG_5937_nyqmrl.jpg"
+        },
+        {
+            "title": "Markets of Leh",
+            "description": "When in Leh you have to capture the true faces of this place. The different kinds of shops, the local people venturing on their habitual work and bringing so much livelihood to this place.  ",
+            "pictureList": [
+                "https://res.cloudinary.com/duumuebzt/image/upload/v1676708354/Shaayer%20Portfolio/Markets%20of%20Ladakh/IMG_5944_kd5nmh.jpg",
+                "https://res.cloudinary.com/duumuebzt/image/upload/v1676708354/Shaayer%20Portfolio/Markets%20of%20Ladakh/IMG_5941_powrlo.jpg",
+                "https://res.cloudinary.com/duumuebzt/image/upload/v1676708354/Shaayer%20Portfolio/Markets%20of%20Ladakh/IMG_5942_seiin7.jpg",
+                "https://res.cloudinary.com/duumuebzt/image/upload/v1676708354/Shaayer%20Portfolio/Markets%20of%20Ladakh/IMG_5943_tlp5ag.jpg",
+                "https://res.cloudinary.com/duumuebzt/image/upload/v1676708354/Shaayer%20Portfolio/Markets%20of%20Ladakh/IMG_5940_of1inh.jpg",
+                "https://res.cloudinary.com/duumuebzt/image/upload/v1676708354/Shaayer%20Portfolio/Markets%20of%20Ladakh/IMG_5945_nagnk9.jpg",
+                "https://res.cloudinary.com/duumuebzt/image/upload/v1676708353/Shaayer%20Portfolio/Markets%20of%20Ladakh/IMG_5939_wpxozc.jpg"
+            ],
+            "coverPhoto": "https://res.cloudinary.com/duumuebzt/image/upload/v1676708354/Shaayer%20Portfolio/Markets%20of%20Ladakh/IMG_5944_kd5nmh.jpg"
+        },
+        {
+            "title": "Woman's Day",
+            "description": "I grew up around strong women, the kind of strength, compassion, and multi-tasking I learned from them is a lesson for life. My mom being a single mother had to fulfill the role of two parents, and had to teach me how to be emotional as well as to fight back. Women are capable of doing so much more than one can even imagine, just don’t let anyone dim your shine.",
+            "pictureList": [
+                "https://res.cloudinary.com/duumuebzt/image/upload/v1676709283/Shaayer%20Portfolio/Women%E2%80%99s%20Day/IMG_5968_hzfn5a.jpg",
+                "https://res.cloudinary.com/duumuebzt/image/upload/v1676709282/Shaayer%20Portfolio/Women%E2%80%99s%20Day/IMG_5960_maeytx.jpg",
+                "https://res.cloudinary.com/duumuebzt/image/upload/v1676709281/Shaayer%20Portfolio/Women%E2%80%99s%20Day/IMG_5967_k2anqs.jpg",
+                "https://res.cloudinary.com/duumuebzt/image/upload/v1676709281/Shaayer%20Portfolio/Women%E2%80%99s%20Day/IMG_5966_nzwgrc.jpg",
+                "https://res.cloudinary.com/duumuebzt/image/upload/v1676709281/Shaayer%20Portfolio/Women%E2%80%99s%20Day/IMG_5964_odx1lg.jpg",
+                "https://res.cloudinary.com/duumuebzt/image/upload/v1676709281/Shaayer%20Portfolio/Women%E2%80%99s%20Day/IMG_5965_t7syhm.jpg",
+                "https://res.cloudinary.com/duumuebzt/image/upload/v1676709281/Shaayer%20Portfolio/Women%E2%80%99s%20Day/IMG_5962_aqdtgp.jpg",
+                "https://res.cloudinary.com/duumuebzt/image/upload/v1676709280/Shaayer%20Portfolio/Women%E2%80%99s%20Day/IMG_5961_vegcq7.jpg",
+                "https://res.cloudinary.com/duumuebzt/image/upload/v1676709280/Shaayer%20Portfolio/Women%E2%80%99s%20Day/IMG_5963_pncaqn.jpg"
+            ],
+            "coverPhoto": "https://res.cloudinary.com/duumuebzt/image/upload/v1676709283/Shaayer%20Portfolio/Women%E2%80%99s%20Day/IMG_5968_hzfn5a.jpg"
+        },
+        {
+            "title": "MahaMahalaya – The beginning of Devipokkholaya",
+            "description": "Like every year you set an alarm for 4 AM. Like every year you set the radio in place. Like every year you get up and get hooked to the radio, filled with emotions, nostalgia, and anticipation. ",
+            "pictureList": [
+                "https://res.cloudinary.com/duumuebzt/image/upload/v1676709538/Shaayer%20Portfolio/Mahalaya/IMG_5954_kvxhj0.jpg",
+                "https://res.cloudinary.com/duumuebzt/image/upload/v1676709538/Shaayer%20Portfolio/Mahalaya/IMG_5956_kq87fl.jpg",
+                "https://res.cloudinary.com/duumuebzt/image/upload/v1676709538/Shaayer%20Portfolio/Mahalaya/IMG_5957_rimr53.jpg",
+                "https://res.cloudinary.com/duumuebzt/image/upload/v1676709538/Shaayer%20Portfolio/Mahalaya/IMG_5955_dt3ikt.jpg",
+                "https://res.cloudinary.com/duumuebzt/image/upload/v1676709538/Shaayer%20Portfolio/Mahalaya/IMG_5959_yasgxy.jpg",
+                "https://res.cloudinary.com/duumuebzt/image/upload/v1676709538/Shaayer%20Portfolio/Mahalaya/IMG_5958_x166ww.jpg"
+            ],
+            "coverPhoto": "https://res.cloudinary.com/duumuebzt/image/upload/v1676709538/Shaayer%20Portfolio/Mahalaya/IMG_5959_yasgxy.jpg"
+        },
+       
+       
+        
+       
+        {
+            "title": "A night at Darjeeling Mall",
+            "description": "",
+            "pictureList": [
+                "https://res.cloudinary.com/duumuebzt/image/upload/v1677437295/Shaayer%20Portfolio/DARJEELING%20MALL/IMG_6152_btkii0.jpg",
+                "https://res.cloudinary.com/duumuebzt/image/upload/v1677437294/Shaayer%20Portfolio/DARJEELING%20MALL/IMG_6153_qqnpcd.jpg",
+                "https://res.cloudinary.com/duumuebzt/image/upload/v1677437293/Shaayer%20Portfolio/DARJEELING%20MALL/IMG_6109_sqgply.jpg",
+                "https://res.cloudinary.com/duumuebzt/image/upload/v1677437293/Shaayer%20Portfolio/DARJEELING%20MALL/IMG_6150_y2qi3o.jpg",
+                "https://res.cloudinary.com/duumuebzt/image/upload/v1677437293/Shaayer%20Portfolio/DARJEELING%20MALL/IMG_6151_otqd2q.jpg"
+            ],
+            "coverPhoto": "https://res.cloudinary.com/duumuebzt/image/upload/v1677437293/Shaayer%20Portfolio/DARJEELING%20MALL/IMG_6150_y2qi3o.jpg"
+        },
+        {
+            "title": "Darjeeling Station Stories",
+            "description": "",
+            "pictureList": [
+                "https://res.cloudinary.com/duumuebzt/image/upload/v1677437427/Shaayer%20Portfolio/Darjeeling%20Station%20Stories/IMG_6139_r6d02e.jpg",
+                "https://res.cloudinary.com/duumuebzt/image/upload/v1677437427/Shaayer%20Portfolio/Darjeeling%20Station%20Stories/IMG_6143_mdqy0a.jpg",
+                "https://res.cloudinary.com/duumuebzt/image/upload/v1677437427/Shaayer%20Portfolio/Darjeeling%20Station%20Stories/IMG_6149_znk30m.jpg",
+                "https://res.cloudinary.com/duumuebzt/image/upload/v1677437426/Shaayer%20Portfolio/Darjeeling%20Station%20Stories/IMG_6141_or3kn3.jpg",
+                "https://res.cloudinary.com/duumuebzt/image/upload/v1677437426/Shaayer%20Portfolio/Darjeeling%20Station%20Stories/IMG_6142_qknasv.jpg",
+                "https://res.cloudinary.com/duumuebzt/image/upload/v1677437426/Shaayer%20Portfolio/Darjeeling%20Station%20Stories/IMG_6140_pq57y0.jpg",
+                "https://res.cloudinary.com/duumuebzt/image/upload/v1677437426/Shaayer%20Portfolio/Darjeeling%20Station%20Stories/IMG_5774_lxyuof.jpg"
+            ],
+            "coverPhoto": "https://res.cloudinary.com/duumuebzt/image/upload/v1677437427/Shaayer%20Portfolio/Darjeeling%20Station%20Stories/IMG_6143_mdqy0a.jpg"
+        },
+        {
+            "title": "Tumling",
+            "description": "",
+            "pictureList": [
+                "https://res.cloudinary.com/duumuebzt/image/upload/v1677437588/Shaayer%20Portfolio/Tumling/IMG_6145_hdhufb.jpg",
+                "https://res.cloudinary.com/duumuebzt/image/upload/v1677437588/Shaayer%20Portfolio/Tumling/IMG_6145_hdhufb.jpg",
+                "https://res.cloudinary.com/duumuebzt/image/upload/v1677437588/Shaayer%20Portfolio/Tumling/IMG_6145_hdhufb.jpg",
+                "https://res.cloudinary.com/duumuebzt/image/upload/v1677437588/Shaayer%20Portfolio/Tumling/IMG_6145_hdhufb.jpg",
+                "https://res.cloudinary.com/duumuebzt/image/upload/v1677437588/Shaayer%20Portfolio/Tumling/IMG_6146_rphc4a.jpg",
+                "https://res.cloudinary.com/duumuebzt/image/upload/v1677437588/Shaayer%20Portfolio/Tumling/IMG_9954_xxhhuh.jpg",
+                "https://res.cloudinary.com/duumuebzt/image/upload/v1677437588/Shaayer%20Portfolio/Tumling/IMG_6129_tps27p.jpg",
+                "https://res.cloudinary.com/duumuebzt/image/upload/v1677437587/Shaayer%20Portfolio/Tumling/IMG_6144_xbr4ni.jpg",
+                "https://res.cloudinary.com/duumuebzt/image/upload/v1677437587/Shaayer%20Portfolio/Tumling/IMG_6130_nrprbh.jpg",
+                "https://res.cloudinary.com/duumuebzt/image/upload/v1677437587/Shaayer%20Portfolio/Tumling/IMG_6122_wojgta.jpg",
+                "https://res.cloudinary.com/duumuebzt/image/upload/v1677437587/Shaayer%20Portfolio/Tumling/IMG_6125_okyfkk.jpg",
+                "https://res.cloudinary.com/duumuebzt/image/upload/v1677437586/Shaayer%20Portfolio/Tumling/IMG_6127_umc22l.jpg",
+                "https://res.cloudinary.com/duumuebzt/image/upload/v1677437587/Shaayer%20Portfolio/Tumling/IMG_6123_vzwetv.jpg"
+            ],
+            "coverPhoto": "https://res.cloudinary.com/duumuebzt/image/upload/v1677437587/Shaayer%20Portfolio/Tumling/IMG_6125_okyfkk.jpg"
         }
     ],
     "photowalks": [
@@ -186,19 +311,19 @@
     "workshops": [
         {
             "title": "Colours of Ladakh",
-            "description": "ojdhggygygyyhbghbhhhhgh",
+            "description": "",
             "pictureList": [],
             "coverPhoto": ""
         },
         {
             "title": "Colours of Ladakh",
-            "description": "ojdhggygygyyhbghbhhhhgh",
+            "description": "",
             "pictureList": [],
             "coverPhoto": ""
         },
         {
             "title": "Colours of Ladakh",
-            "description": "ojdhggygygyyhbghbhhhhgh",
+            "description": "",
             "pictureList": [],
             "coverPhoto": ""
         }

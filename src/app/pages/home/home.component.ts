@@ -50,7 +50,7 @@ export class HomeComponent implements OnInit, AfterViewInit {
   homeScreenDetails:any ={}
   selectedAbTab:string='expertise';
   experienceList:any=[]; 
-  typingList = ['Travel Photographer', 'Street Photographer','Wedding and Portrait Photographer']
+  typingList = ['Travel Photographer', 'Street Photographer','Wedding and Portrait Photographer','Food Photographer']
   displayedWork:any=[];
 
   constructor(private activatedRoute: ActivatedRoute, private router: Router,private http: HttpClient){}
