@@ -1,5 +1,4 @@
 import { NgModule } from '@angular/core';
-import { BrowserModule } from '@angular/platform-browser';
 
 import { AppRoutingModule } from './app-routing.module';
 import { AngularTypewriterEffectModule } from 'angular-typewriter-effect';
@@ -9,6 +8,8 @@ import { HomeComponent } from './pages/home/home.component';
 import { BrandsComponent } from './components/brands/brands.component';
 import { GalleryViewComponent } from './pages/gallery-view/gallery-view.component';
 import { HeaderComponent } from './components/header/header.component';
+import { BrowserModule } from '@angular/platform-browser';
+import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { FooterComponent } from './components/footer/footer.component';
 import { SlideShowComponent } from './components/slide-show/slide-show.component';
 import { AwardsComponent } from './components/awards/awards.component';
@@ -27,6 +28,7 @@ import { AwardsComponent } from './components/awards/awards.component';
   imports: [
     BrowserModule,
     AppRoutingModule,
+  BrowserAnimationsModule,
     HttpClientModule,
     AngularTypewriterEffectModule,
   ],

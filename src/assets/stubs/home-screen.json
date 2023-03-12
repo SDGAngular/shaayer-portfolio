@@ -1,4 +1,15 @@
 {
+   "landing":{
+    "verticalImages":[
+        "https://res.cloudinary.com/duumuebzt/image/upload/v1677436575/Shaayer%20Portfolio/Street%20Stories/IMG_6218_io8yew.jpg",
+        "https://res.cloudinary.com/duumuebzt/image/upload/v1677436574/Shaayer%20Portfolio/Street%20Stories/IMG_6215_mihafn.jpg",
+        "https://res.cloudinary.com/duumuebzt/image/upload/v1677436573/Shaayer%20Portfolio/Street%20Stories/IMG_6209_seykbp.jpg",
+        "https://res.cloudinary.com/duumuebzt/image/upload/v1677436570/Shaayer%20Portfolio/Street%20Stories/IMG_6189_byfyex.jpg"
+    ],
+    "horizontalImages":[]
+   },
+   
+   
     "aboutMe": {
         "experience": [
             "Ambuja Neotia",
@@ -18,10 +29,7 @@
                 "title": "Winner",
                 "desc": "ITC Sonar Ode to Bengal photography"
             },
-            {
-                "title": "Winner",
-                "desc": "Nat Geo Yourshot"
-            },
+            
             {
                 "title": "Winner",
                 "desc": "Corporate Photography Contest"
@@ -37,6 +45,12 @@
             {
                 "title": "Best Portrait Photographer of the Year",
                 "desc": "London Art Times Festival for the famous portrait series - “Athena”"
+            }
+        ],
+        "features":[
+            {
+                "title": "Featured",
+                "desc": "Nat Geo Yourshot"
             }
         ]
     },
@@ -206,7 +220,7 @@
     "serviceList": [
         {
             "title": "Educator and Mentor",
-            "desc": "Experienced of delivering detailed lectures on photography via interactive sessions with a detailed focus on street, travel and wedding photography. With the experience of conducting 50+ workshops with leading brands and institutions like heritage, NRS Medical College etc , Shaayer is a seasoned educator and mentor"
+            "desc": "Experienced of delivering detailed lectures on photography via interactive sessions with a detailed focus on street, travel and wedding photography. With the experience of conducting numerous workshops with leading brands and institutions like heritage, NRS Medical College etc , Shaayer is a seasoned educator and mentor"
         },
         {
             "title": "Freelance Photographer",

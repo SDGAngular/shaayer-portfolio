@@ -1,8 +1,8 @@
-<div class="" id="header">
+<div @fade class="" id="header">
 
     <div class="container">
         <nav>
-            <img class="logo" src="../../../assets/images/signature.png" alt="logo">
+            <!-- <img class="logo" src="../../../assets/images/signature.png" alt="logo"> -->
             <ul id="side-bar">
                 <li style="cursor:pointer" (click)="scrollToSection(eachHeader)" *ngFor="let eachHeader of headerList">
                     <a> {{eachHeader.value}}</a>
@@ -17,8 +17,8 @@
             
             <h1>Hello I am <br> <span>Shaayer</span>  Mukherjee</h1>
             <div style="display:flex">
-                <p>I am a  &nbsp;</p>
-                <ngtypewriter [StringList]='typingList' [speed]='1000'></ngtypewriter>
+                <!-- <p>I am a  &nbsp;</p>
+                <ngtypewriter [StringList]='typingList' [speed]='1000'></ngtypewriter> -->
             </div>
             
        
@@ -42,14 +42,15 @@
 
                 <p> 
 
-                    Shaayer Mukherjee is a passionate photographer based out of Calcutta, India who is passionate about various genres of photography ranging from street to portraits, travel and wedding.He is has won several national and international titles and has been exhibited at various iconic venues He is currently working with Nikon as Official Nikon India Mentor with an overall experience of conducting 50+ workshops with brands like honor, asus , nikon etc
+                    Shaayer Mukherjee is a passionate photographer based out of Calcutta, India who is passionate about various genres of photography.He  has won several national and international titles and has been exhibited at various iconic venues He is currently working with Nikon as Official NIKON India Mentor with an overall experience of conducting  workshops with brands like HONOR, ASUS , NIKON etc
 
                 </p>
 
                 <div class="tab-titles">
                     <p [ngClass]="selectedAbTab==='expertise'?'active-link':''" (click)="setSelectedAboutTab('expertise')" class="tab-links">Expertise</p>
                     <p [ngClass]="selectedAbTab==='experience'?'active-link':''"  (click)="setSelectedAboutTab('experience')" class="tab-links">Experience</p>
-                    <p [ngClass]="selectedAbTab==='achievements'?'active-link':''"  (click)="setSelectedAboutTab('achievements')" class="tab-links">Achievements</p>
+                    <p [ngClass]="selectedAbTab==='achievements'?'active-link':''"  (click)="setSelectedAboutTab('achievements')" class="tab-links">Awards</p>
+                    <p [ngClass]="selectedAbTab==='features'?'active-link':''"  (click)="setSelectedAboutTab('features')" class="tab-links">Features</p>
                 </div>
 
                 <div *ngIf="selectedAbTab==='expertise'" class="tab-contents">
@@ -78,7 +79,7 @@
                     
                         <ul *ngFor="let eachList of experienceList" class="brands">
                             <li *ngFor="let eachBrand of eachList">
-                                <span>{{eachBrand}}</span>
+                                <span>{{eachBrand | uppercase}}</span>
                                 
                             </li>
                            
@@ -92,6 +93,16 @@
                 <div *ngIf="selectedAbTab==='achievements'" class="tab-contents">
                     <ul>
                         <li *ngFor="let eachAchievement of homeScreenDetails.aboutMe.achievement">
+                            <span>{{eachAchievement.title}}</span>
+                            <br>{{eachAchievement.desc}}
+                        </li>
+                        
+                    </ul>
+                </div>
+
+                <div *ngIf="selectedAbTab==='features'" class="tab-contents">
+                    <ul>
+                        <li *ngFor="let eachAchievement of homeScreenDetails.aboutMe.features">
                             <span>{{eachAchievement.title}}</span>
                             <br>{{eachAchievement.desc}}
                         </li>
