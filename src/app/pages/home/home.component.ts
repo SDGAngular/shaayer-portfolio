@@ -28,10 +28,7 @@ export class HomeComponent implements OnInit, AfterViewInit, OnDestroy {
   headerList: any = [
 
 
-    {
-      id: '#about',
-      value: 'About'
-    },
+   
     {
       id: '#brands',
       value: 'Brands'
@@ -56,6 +53,12 @@ export class HomeComponent implements OnInit, AfterViewInit, OnDestroy {
     {
       id: '#contact',
       value: 'Contact'
+    },
+    {
+      id: 'bmw',
+      value:'Buy My Work',
+      isRedirect:true,
+      link:''
     }
   ];
   isMenuHidden = false;
@@ -71,14 +74,27 @@ export class HomeComponent implements OnInit, AfterViewInit, OnDestroy {
   ngOnInit(): void {
 
     this.homeScreenDetails = this.activatedRoute.snapshot.data['homeDeatils'];
-    console.log(this.homeScreenDetails)
-
     this.setAboutMe(this.homeScreenDetails.aboutMe)
-    this.horizontalLandingImageList = this.homeScreenDetails.landing.verticalImages;
+    const mobile = sessionStorage.getItem('isMobile')
+    const isMobile = mobile?JSON.parse(mobile):null;
+    if(isMobile){
+      this.horizontalLandingImageList = this.homeScreenDetails.landing.horizontalImages;
+    }
+    else{
+      this.horizontalLandingImageList = this.homeScreenDetails.landing.verticalImages;
+    }
+   
     this.setLandingImage();
 
 
 
+  }
+
+  openAwards(award: any): void {
+    if (award && award.linkedImage && award.linkedImage.length > 0) {
+      const linkedImage: string = award.linkedImage ?? '';
+      window.open(linkedImage, '_blank')?.focus();
+    }
   }
 
 

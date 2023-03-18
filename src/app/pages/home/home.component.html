@@ -3,6 +3,8 @@
     <div class="container">
         <nav>
             <!-- <img class="logo" src="../../../assets/images/signature.png" alt="logo"> -->
+           
+           <div>
             <ul id="side-bar">
                 <li style="cursor:pointer" (click)="scrollToSection(eachHeader)" *ngFor="let eachHeader of headerList">
                     <a> {{eachHeader.value}}</a>
@@ -10,6 +12,9 @@
                 <i (click)="showMenu(false)" class="fas fa-times"></i>
             </ul>
             <i (click)="showMenu(true)" class="fas fa-bars"></i>
+
+           </div>
+          
         </nav>
 
         <div class="header-text">
@@ -96,7 +101,7 @@
 
                 <div *ngIf="selectedAbTab==='achievements'" class="tab-contents">
                     <ul>
-                        <li *ngFor="let eachAchievement of homeScreenDetails.aboutMe.achievement">
+                        <li  style="cursor:pointer"  (click)="openAwards(eachAchievement)" *ngFor="let eachAchievement of homeScreenDetails.aboutMe.achievement">
                             <span>{{eachAchievement.title}}</span>
                             <br>{{eachAchievement.desc}}
                         </li>
@@ -104,9 +109,9 @@
                     </ul>
                 </div>
 
-                <div *ngIf="selectedAbTab==='features'" class="tab-contents">
+                <div  *ngIf="selectedAbTab==='features'" class="tab-contents">
                     <ul>
-                        <li *ngFor="let eachAchievement of homeScreenDetails.aboutMe.features">
+                        <li style="cursor:pointer" (click)="openAwards(eachAchievement)"  *ngFor="let eachAchievement of homeScreenDetails.aboutMe.features">
                             <span>{{eachAchievement.title}}</span>
                             <br>{{eachAchievement.desc}}
                         </li>
@@ -190,6 +195,8 @@
             
                 <p>{{eachService.desc}}</p>
 
+               <a style="  border: 1px dotted;
+               padding: 6px;" href="">Learn More</a>
 
             </div>
 
