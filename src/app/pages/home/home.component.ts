@@ -58,7 +58,7 @@ export class HomeComponent implements OnInit, AfterViewInit, OnDestroy {
       id: 'bmw',
       value:'Buy My Work',
       isRedirect:true,
-      link:''
+      link:'https://forms.gle/bLLPZMpchR1BcwHr9'
     }
   ];
   isMenuHidden = false;
@@ -91,6 +91,16 @@ export class HomeComponent implements OnInit, AfterViewInit, OnDestroy {
   }
 
   openAwards(award: any): void {
+
+    if(award.proofList && award.proofList.length>0){
+
+      const eachWork = {
+        pictureList:award.proofList
+      }
+      sessionStorage.setItem('gallery', JSON.stringify(eachWork));
+      this.router.navigate(['gallery']);
+      return 
+    }
     if (award && award.linkedImage && award.linkedImage.length > 0) {
       const linkedImage: string = award.linkedImage ?? '';
       window.open(linkedImage, '_blank')?.focus();
@@ -132,10 +142,31 @@ export class HomeComponent implements OnInit, AfterViewInit, OnDestroy {
   }
   scrollToSection(eachHeader: any): void {
 
+    if(eachHeader.isRedirect){
+      window.open(eachHeader.link)
+    }
     const id = eachHeader.id.slice(1,);
     console.log(id);
     const targetSection = document.getElementById(id);
     targetSection?.scrollIntoView()
+  }
+
+  goToService(eachService:any):void{
+
+    if(eachService.isLinkApplicable){
+      window.open(eachService.redirectLink)
+      return
+    }
+
+    const eachWork = this.homeScreenDetails.work.find((eachWork:any)=>{
+      return eachWork.key ===eachService.pictureListKey;
+    })
+
+    if(eachWork){
+      sessionStorage.setItem('gallery', JSON.stringify(eachWork));
+      this.router.navigate(['gallery']);
+    }
+
   }
 
   setAboutMe(aboutMe: any): void {

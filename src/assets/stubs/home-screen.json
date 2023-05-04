@@ -1,26 +1,20 @@
 {
-   "landing":{
-    "verticalImages":[
-
-"https://res.cloudinary.com/duumuebzt/image/upload/v1676706724/Shaayer%20Portfolio/nubra/IMG_5938_uqxwd6.jpg",
-"https://res.cloudinary.com/duumuebzt/image/upload/v1676706724/Shaayer%20Portfolio/nubra/IMG_5937_nyqmrl.jpg",
-
-"https://res.cloudinary.com/duumuebzt/image/upload/v1679125088/Shaayer%20Portfolio/wedding/IMG_3132_1_zw3sid.jpg",
-"https://res.cloudinary.com/duumuebzt/image/upload/v1677437094/Shaayer%20Portfolio/Travel%20Diaries/IMG_6136_xbiaxq.jpg",
-"https://res.cloudinary.com/duumuebzt/image/upload/v1677437427/Shaayer%20Portfolio/Darjeeling%20Station%20Stories/IMG_6149_znk30m.jpg"
-    ],
-    "horizontalImages":[
-
-        "https://res.cloudinary.com/duumuebzt/image/upload/v1677436567/Shaayer%20Portfolio/Street%20Stories/IMG_6181_eptf8m.jpg",
-        "https://res.cloudinary.com/duumuebzt/image/upload/v1677436553/Shaayer%20Portfolio/Street%20Stories/IMG_2978_goc20t.jpg",
-        "https://res.cloudinary.com/duumuebzt/image/upload/v1677436555/Shaayer%20Portfolio/Street%20Stories/IMG_5763_rarwi0.jpg",
-        "https://res.cloudinary.com/duumuebzt/image/upload/v1676899381/Shaayer%20Portfolio/wedding/IMG_3138_qon2v0.jpg"
-    ]
-   },
-   
-   
+    "landing": {
+        "verticalImages": [
+            "https://res.cloudinary.com/duumuebzt/image/upload/v1676706724/Shaayer%20Portfolio/nubra/IMG_5938_uqxwd6.jpg",
+            "https://res.cloudinary.com/duumuebzt/image/upload/v1676706724/Shaayer%20Portfolio/nubra/IMG_5937_nyqmrl.jpg",
+            "https://res.cloudinary.com/duumuebzt/image/upload/v1679125088/Shaayer%20Portfolio/wedding/IMG_3132_1_zw3sid.jpg",
+            "https://res.cloudinary.com/duumuebzt/image/upload/v1677437094/Shaayer%20Portfolio/Travel%20Diaries/IMG_6136_xbiaxq.jpg",
+            "https://res.cloudinary.com/duumuebzt/image/upload/v1677437427/Shaayer%20Portfolio/Darjeeling%20Station%20Stories/IMG_6149_znk30m.jpg"
+        ],
+        "horizontalImages": [
+            "https://res.cloudinary.com/duumuebzt/image/upload/v1677436567/Shaayer%20Portfolio/Street%20Stories/IMG_6181_eptf8m.jpg",
+            "https://res.cloudinary.com/duumuebzt/image/upload/v1677436553/Shaayer%20Portfolio/Street%20Stories/IMG_2978_goc20t.jpg",
+            "https://res.cloudinary.com/duumuebzt/image/upload/v1676899381/Shaayer%20Portfolio/wedding/IMG_3138_qon2v0.jpg"
+        ]
+    },
     "aboutMe": {
-        "description":"Shaayer Mukherjee is a passionate photographer based out of Calcutta, India who is passionate about various genres of photography ranging from street to portraits, travel and wedding.He is has won several national and international titles and has been exhibited at various iconic venues He is currently working with NIKON as Official NIKON India Mentor with an overall experience of conducting 50+ workshops with brands like HONOR, ASUS , NIKON0.0, etc",
+        "description": "Shaayer Mukherjee is a passionate photographer based out of Calcutta, India who is passionate about various genres of photography ranging from street to portraits, travel and wedding.He is has won several national and international titles and has been exhibited at various iconic venues He is currently working with NIKON as Official NIKON India Mentor with an overall experience of conducting 50+ workshops with brands like HONOR, ASUS , NIKON, etc",
         "experience": [
             "Ambuja Neotia",
             "Westin",
@@ -34,45 +28,60 @@
             {
                 "title": "Winner",
                 "desc": "Utkarsh Bangla West Bengal Government Photography",
-                "linkedImage":"https://res.cloudinary.com/duumuebzt/image/upload/v1679126559/Shaayer%20Portfolio/awards/IMG_6504_xodluw.jpg"
+                "linkedImage": "https://res.cloudinary.com/duumuebzt/image/upload/v1679126559/Shaayer%20Portfolio/awards/IMG_6504_xodluw.jpg",
+                "proofList": [
+                    "https://res.cloudinary.com/duumuebzt/image/upload/v1679126560/Shaayer%20Portfolio/awards/IMG_6505_a4eqxd.jpg",
+                    "https://res.cloudinary.com/duumuebzt/image/upload/v1679126559/Shaayer%20Portfolio/awards/IMG_6504_xodluw.jpg",
+                    "https://res.cloudinary.com/duumuebzt/image/upload/v1679126560/Shaayer%20Portfolio/awards/IMG_6506_ii4e2h.jpg",
+                    "https://res.cloudinary.com/duumuebzt/image/upload/v1682962074/Shaayer%20Portfolio/awards/IMG_6533_hyvfay.jpg",
+                    "https://res.cloudinary.com/duumuebzt/image/upload/v1682962060/Shaayer%20Portfolio/awards/IMG_6503_avlpoh.jpg",
+                    "https://res.cloudinary.com/duumuebzt/image/upload/v1682962060/Shaayer%20Portfolio/awards/IMG_6504_nxfwdw.jpg"
+                ]
             },
             {
                 "title": "Winner",
                 "desc": "ITC Sonar Ode to Bengal photography",
-                "linkedImage":"https://res.cloudinary.com/duumuebzt/image/upload/v1679126562/Shaayer%20Portfolio/awards/IMG_6527_af3ycs.jpg"
+                "linkedImage": "https://res.cloudinary.com/duumuebzt/image/upload/v1679126562/Shaayer%20Portfolio/awards/IMG_6527_af3ycs.jpg",
+                "proofList": [
+                    "https://res.cloudinary.com/duumuebzt/image/upload/v1682962075/Shaayer%20Portfolio/awards/IMG_6527_gdto31.jpg",
+                    "https://res.cloudinary.com/duumuebzt/image/upload/v1679126562/Shaayer%20Portfolio/awards/IMG_6527_af3ycs.jpg",
+                    "https://res.cloudinary.com/duumuebzt/image/upload/v1682962065/Shaayer%20Portfolio/awards/IMG_6526_srvxal.jpg"
+                ]
             },
-            
             {
                 "title": "Winner",
                 "desc": "Corporate Photography Contest",
-                "linkedImage":"https://res.cloudinary.com/duumuebzt/image/upload/v1679126561/Shaayer%20Portfolio/awards/IMG_6519_nepxsg.jpg"
+                "linkedImage": "https://res.cloudinary.com/duumuebzt/image/upload/v1679126561/Shaayer%20Portfolio/awards/IMG_6519_nepxsg.jpg",
+                "proofList": [
+                    "https://res.cloudinary.com/duumuebzt/image/upload/v1679126561/Shaayer%20Portfolio/awards/IMG_6519_nepxsg.jpg",
+                    ""
+                ]
             },
             {
                 "title": "Winner",
                 "desc": "Honor Photogapher of the Year",
-                "linkedImage":"https://res.cloudinary.com/duumuebzt/image/upload/v1679126561/Shaayer%20Portfolio/awards/IMG_6518_i0cu4z.jpg"
+                "linkedImage": "https://res.cloudinary.com/duumuebzt/image/upload/v1679126561/Shaayer%20Portfolio/awards/IMG_6518_i0cu4z.jpg"
             },
             {
                 "title": "Winner",
                 "desc": "Tata AIG Photographer of the Year",
-                "linkedImage":"https://res.cloudinary.com/duumuebzt/image/upload/v1679127076/Shaayer%20Portfolio/awards/WhatsApp_Image_2023-03-18_at_13.39.38_vjtbk1.jpg"
+                "linkedImage": "https://res.cloudinary.com/duumuebzt/image/upload/v1679127076/Shaayer%20Portfolio/awards/WhatsApp_Image_2023-03-18_at_13.39.38_vjtbk1.jpg"
             },
             {
-                "title":"Winner",
-                "desc":"Camarena Academy Contest",
-                "linkedImage":"https://res.cloudinary.com/duumuebzt/image/upload/v1679126561/Shaayer%20Portfolio/awards/IMG_6516_nadiq9.jpg"
+                "title": "Winner",
+                "desc": "Camarena Academy Contest",
+                "linkedImage": "https://res.cloudinary.com/duumuebzt/image/upload/v1679126561/Shaayer%20Portfolio/awards/IMG_6516_nadiq9.jpg"
             },
             {
                 "title": "Best Portrait Photographer of the Year",
                 "desc": "London Art Times Festival for the famous portrait series - “Athena”"
             }
-           
         ],
-        "features":[
+        "features": [
             {
                 "title": "Featured",
                 "desc": "Nat Geo Yourshot",
-                "linkedImage":"https://res.cloudinary.com/duumuebzt/image/upload/v1679126560/Shaayer%20Portfolio/awards/IMG_6510_f6sokp.jpg"
+                "linkedImage": "https://res.cloudinary.com/duumuebzt/image/upload/v1679126560/Shaayer%20Portfolio/awards/IMG_6510_f6sokp.jpg"
             }
         ]
     },
@@ -89,6 +98,7 @@
     "work": [
         {
             "title": "Street Stories",
+            "key":"strstories",
             "description": "",
             "pictureList": [
                 "https://res.cloudinary.com/duumuebzt/image/upload/v1677436575/Shaayer%20Portfolio/Street%20Stories/IMG_6218_io8yew.jpg",
@@ -149,6 +159,7 @@
         },
         {
             "title": "Wedding Diaries",
+            "key":"WDiaries",
             "description": "Weddings are one of the most auspicious days for any Indian family. Let that be the fun of rituals, bringing the whole family together, or the beautiful charm on the bride and groom’s faces. One cannot miss but capture the essence of this day.",
             "pictureList": [
                 "https://res.cloudinary.com/duumuebzt/image/upload/v1676899385/Shaayer%20Portfolio/wedding/IMG_6048_avnsrr.jpg",
@@ -186,7 +197,7 @@
         },
         {
             "title": "Foodie Heaven",
-            "description": "",
+            "description": "foodandcomm",
             "pictureList": [
                 "https://res.cloudinary.com/duumuebzt/image/upload/v1677436306/Shaayer%20Portfolio/Food/1a100454-299f-4cc9-a1d2-2bed5d0c4363_zz2yeh.jpg",
                 "https://res.cloudinary.com/duumuebzt/image/upload/v1677436307/Shaayer%20Portfolio/Food/DSC_0133_sw1nss.jpg",
@@ -200,7 +211,7 @@
         },
         {
             "title": "Shikara rides for the soul",
-            "description": "Captured a glimpse of the Hanjis or boatmen of Kashmir. How their day starts and ends on the beautiful lakes of Kashmir. How for them it’s their daily affair to be amidst the charismatic beauty of Kashmir while the visitors are awestruck by its beauty.  The pictures are captured early in the morning around 4 AM when the vegetable and flower markets actually open.",
+            "description": "Captured a glimpse of the Hanjis or boatmen of Kashmir. How their day starts and ends on the beautiful lakes of Kashmir. How for them it’s their daily affair to be amidst the charismatic beauty of Kashmir while the visitors are awestruck by its beauty. The pictures are captured early in the morning around 4 AM when the vegetable and flower markets actually open.",
             "pictureList": [
                 "https://res.cloudinary.com/duumuebzt/image/upload/v1676708952/Shaayer%20Portfolio/Floating%20Dal%20Lake%20Market/IMG_5952_nui8ng.jpg",
                 "https://res.cloudinary.com/duumuebzt/image/upload/v1676708952/Shaayer%20Portfolio/Floating%20Dal%20Lake%20Market/IMG_5953_qkulfm.jpg",
@@ -284,10 +295,6 @@
             ],
             "coverPhoto": "https://res.cloudinary.com/duumuebzt/image/upload/v1676709538/Shaayer%20Portfolio/Mahalaya/IMG_5955_dt3ikt.jpg"
         },
-       
-       
-        
-       
         {
             "title": "A night at Darjeeling Mall",
             "description": "",
@@ -333,6 +340,21 @@
                 "https://res.cloudinary.com/duumuebzt/image/upload/v1677437587/Shaayer%20Portfolio/Tumling/IMG_6123_vzwetv.jpg"
             ],
             "coverPhoto": "https://res.cloudinary.com/duumuebzt/image/upload/v1677437587/Shaayer%20Portfolio/Tumling/IMG_6125_okyfkk.jpg"
+        },
+        {
+            "title": "Mentorship",
+            "key":"mentorship",
+           
+            "pictureList": [
+
+                "https://res.cloudinary.com/duumuebzt/image/upload/v1676481371/Shaayer%20Portfolio/photowalks/c10b1374-7353-44f3-b6b2-fe6255bf4f24_ekzbhm.jpg",
+                "https://res.cloudinary.com/duumuebzt/image/upload/v1676481383/Shaayer%20Portfolio/photowalks/IMG_3868_bwqajx.jpg",
+                "https://res.cloudinary.com/duumuebzt/image/upload/v1676481381/Shaayer%20Portfolio/photowalks/IMG_4643_syh9y4.jpg",
+                "https://res.cloudinary.com/duumuebzt/image/upload/v1676481378/Shaayer%20Portfolio/photowalks/IMG_5790_rko1oc.jpg",
+                "https://res.cloudinary.com/duumuebzt/image/upload/v1676481378/Shaayer%20Portfolio/photowalks/IMG_5794_sgk0ay.jpg",
+                "https://res.cloudinary.com/duumuebzt/image/upload/v1676481373/Shaayer%20Portfolio/photowalks/IMG_5789_rdv7oe.jpg"
+            ]
+
         }
     ],
     "photowalks": [
@@ -366,73 +388,34 @@
     "serviceList": [
         {
             "title": "Educator and Mentor",
-            "desc": "Experienced of delivering detailed lectures on photography via interactive sessions with a detailed focus on street, travel and wedding photography. With the experience of conducting numerous workshops with leading brands and institutions like heritage, NRS Medical College etc , Shaayer is a seasoned educator and mentor"
+            "desc": "Experienced of delivering detailed lectures on photography via interactive sessions with a detailed focus on street, travel and wedding photography. With the experience of conducting numerous workshops with leading brands and institutions like heritage, NRS Medical College etc , Shaayer is a seasoned educator and mentor",
+            "pictureListKey":"mentorship" 
         },
-      
         {
             "title": "Documentation",
-            "desc": "Shaayer has a vide range of expertise in documenting intersting rituals , fetsivals and places. He has been shooting extensively since the last 5 years and he has documented multiple events both as a street and a wedding photographer"
+            "desc": "Shaayer has a wide range of expertise in documenting intersting rituals , fetsivals and places. He has been shooting extensively since the last 5 years and he has documented multiple events both as a street and a wedding photographer",
+            "pictureListKey":"strstories" 
         },
         {
-
-            "title":"Wedding Assignments",
-            "desc":" (Change Desc) Experienced of delivering detailed lectures on photography via interactive sessions with a detailed focus on street, travel and wedding photography. With the experience of conducting numerous workshops with leading brands and institutions like heritage, NRS Medical College etc , Shaayer is a seasoned educator and mentor",
-            "pictureList": [
-                "https://res.cloudinary.com/duumuebzt/image/upload/v1676899385/Shaayer%20Portfolio/wedding/IMG_6048_avnsrr.jpg",
-                "https://res.cloudinary.com/duumuebzt/image/upload/v1676899383/Shaayer%20Portfolio/wedding/IMG_6051_bqgie7.jpg",
-                "https://res.cloudinary.com/duumuebzt/image/upload/v1676899384/Shaayer%20Portfolio/wedding/IMG_6044_mxe4lk.jpg",
-                "https://res.cloudinary.com/duumuebzt/image/upload/v1676899384/Shaayer%20Portfolio/wedding/IMG_6045_nqxtif.jpg",
-                "https://res.cloudinary.com/duumuebzt/image/upload/v1676899384/Shaayer%20Portfolio/wedding/IMG_6047_gyf1ad.jpg",
-                "https://res.cloudinary.com/duumuebzt/image/upload/v1676899383/Shaayer%20Portfolio/wedding/IMG_6050_yq8etg.jpg",
-                "https://res.cloudinary.com/duumuebzt/image/upload/v1676899383/Shaayer%20Portfolio/wedding/IMG_6049_sctbht.jpg",
-                "https://res.cloudinary.com/duumuebzt/image/upload/v1676899381/Shaayer%20Portfolio/wedding/IMG_6040_mcpoxf.jpg",
-                "https://res.cloudinary.com/duumuebzt/image/upload/v1676899382/Shaayer%20Portfolio/wedding/IMG_6041_njqkoi.jpg",
-                "https://res.cloudinary.com/duumuebzt/image/upload/v1676899382/Shaayer%20Portfolio/wedding/IMG_6042_zupbky.jpg",
-                "https://res.cloudinary.com/duumuebzt/image/upload/v1676899382/Shaayer%20Portfolio/wedding/IMG_6046_rnmog3.jpg",
-                "https://res.cloudinary.com/duumuebzt/image/upload/v1676899382/Shaayer%20Portfolio/wedding/IMG_6043_yhlnvp.jpg",
-                "https://res.cloudinary.com/duumuebzt/image/upload/v1676899381/Shaayer%20Portfolio/wedding/IMG_6038_wyityr.jpg",
-                "https://res.cloudinary.com/duumuebzt/image/upload/v1676899381/Shaayer%20Portfolio/wedding/IMG_3138_qon2v0.jpg",
-                "https://res.cloudinary.com/duumuebzt/image/upload/v1676899381/Shaayer%20Portfolio/wedding/IMG_6039_ihkeng.jpg",
-                "https://res.cloudinary.com/duumuebzt/image/upload/v1676899381/Shaayer%20Portfolio/wedding/IMG_6037_btuxho.jpg",
-                "https://res.cloudinary.com/duumuebzt/image/upload/v1676899381/Shaayer%20Portfolio/wedding/IMG_3137_qthmfe.jpg",
-                "https://res.cloudinary.com/duumuebzt/image/upload/v1676899381/Shaayer%20Portfolio/wedding/IMG_3136_uuolfw.jpg",
-                "https://res.cloudinary.com/duumuebzt/image/upload/v1676899380/Shaayer%20Portfolio/wedding/IMG_3135_navswa.jpg",
-                "https://res.cloudinary.com/duumuebzt/image/upload/v1676899380/Shaayer%20Portfolio/wedding/IMG_3134_ydsbrf.jpg",
-                "https://res.cloudinary.com/duumuebzt/image/upload/v1676899380/Shaayer%20Portfolio/wedding/IMG_3132_qqyocn.jpg",
-                "https://res.cloudinary.com/duumuebzt/image/upload/v1676899379/Shaayer%20Portfolio/wedding/a7fe6331-7199-4476-91f2-25ceafca11c7_avfu4x.jpg",
-                "https://res.cloudinary.com/duumuebzt/image/upload/v1676899379/Shaayer%20Portfolio/wedding/a7fe6331-7199-4476-91f2-25ceafca11c7_avfu4x.jpg",
-                "https://res.cloudinary.com/duumuebzt/image/upload/v1676899380/Shaayer%20Portfolio/wedding/e409f975-2088-4a67-bb6e-e6c937c6cd83_rzqqlj.jpg",
-                "https://res.cloudinary.com/duumuebzt/image/upload/v1676899379/Shaayer%20Portfolio/wedding/acd53db7-6434-422d-b9e9-53153bae8873_fpeifr.jpg",
-                "https://res.cloudinary.com/duumuebzt/image/upload/v1676899379/Shaayer%20Portfolio/wedding/86927aca-3d4f-4f11-95af-835d5f798312_mfkjxe.jpg",
-                "https://res.cloudinary.com/duumuebzt/image/upload/v1676899379/Shaayer%20Portfolio/wedding/3a5942d2-4149-42ba-8659-97b9516a1864_rhe6jl.jpg",
-                "https://res.cloudinary.com/duumuebzt/image/upload/v1676899379/Shaayer%20Portfolio/wedding/0839edcf-0f98-4aa8-bf71-83a516c7ca00_a6aurx.jpg",
-                "https://res.cloudinary.com/duumuebzt/image/upload/v1676899379/Shaayer%20Portfolio/wedding/139359f6-3b0b-4d0e-bf11-82704e813f99_tqlrde.jpg",
-                "https://res.cloudinary.com/duumuebzt/image/upload/v1676899379/Shaayer%20Portfolio/wedding/627d877d-3264-4aee-b830-dc11b9c27a03_u9pu6t.jpg"
-            ]
+            "title": "Wedding Assignments",
+            "desc": " Let the rare memories of your wedding be captured by an experienced and passionate photographer who knows how to weave the memories together care an empathy. Shaayer has an experience of covering multiple events,weddings, pre-wedding and commercial shoots and delivering quality images with strong storytelling and unique point of views.",
+            "pictureListKey":"WDiaries" 
         },
         {
-
-            "title":"Fashion Shoots",
-            "desc":" (Change Desc) Experienced of delivering detailed lectures on photography via interactive sessions with a detailed focus on street, travel and wedding photography. With the experience of conducting numerous workshops with leading brands and institutions like heritage, NRS Medical College etc , Shaayer is a seasoned educator and mentor"
+            "title": "Fashion Shoots",
+           
+            "desc": "Glamour is the most fundamental element of fashion. Be it ethnic or western, Shaayer knows how to bring out the inner beauty of every subject he captures. With a strong hold on storytelling, Shaayer has a bend of mind to play with complex lighting and fascinating elements, to capture beautiful fashion portraits that not only portray the glamour but also adds a unique signature to your portraits."
         },
         {
-
-            "title":"Food and Commercial Shoots",
-            "desc":" (Change Desc) Experienced of delivering detailed lectures on photography via interactive sessions with a detailed focus on street, travel and wedding photography. With the experience of conducting numerous workshops with leading brands and institutions like heritage, NRS Medical College etc , Shaayer is a seasoned educator and mentor",
-            "pictureList": [
-                "https://res.cloudinary.com/duumuebzt/image/upload/v1677436306/Shaayer%20Portfolio/Food/1a100454-299f-4cc9-a1d2-2bed5d0c4363_zz2yeh.jpg",
-                "https://res.cloudinary.com/duumuebzt/image/upload/v1677436307/Shaayer%20Portfolio/Food/DSC_0133_sw1nss.jpg",
-                "https://res.cloudinary.com/duumuebzt/image/upload/v1677436307/Shaayer%20Portfolio/Food/ee941a71-a545-42c3-81d9-748b17d99437_yceziq.jpg",
-                "https://res.cloudinary.com/duumuebzt/image/upload/v1677436305/Shaayer%20Portfolio/Food/d0f2ad3e-d521-4747-8a91-c08f2f16b163_ttgpub.jpg",
-                "https://res.cloudinary.com/duumuebzt/image/upload/v1677436305/Shaayer%20Portfolio/Food/027fc41a-1120-4d92-873e-918123924619_dqdv7n.jpg",
-                "https://res.cloudinary.com/duumuebzt/image/upload/v1677436305/Shaayer%20Portfolio/Food/43ced7c1-7692-4daa-981e-c20f9d8ee586_vg6om6.jpg",
-                "https://res.cloudinary.com/duumuebzt/image/upload/v1677436305/Shaayer%20Portfolio/Food/94a6f515-d4cd-4da3-a31c-af056c93c4bf_tc7opf.jpg"
-            ]
+            "title": "Food and Commercial Shoots",
+            "desc": "Be it lipsmacking pictures of all the items in your menu or a fun and glamorous shot of your favourite product, Shaayer has it covered. Shaayer has an experience of conducting food and commercial shoots for multiple brands and has some wonderful pictures for you to check out in his portfolio. ",
+            "pictureListKey":"foodandcomm"
         },
         {
-
-            "title":"Personalised Mentoring Sessions",
-            "desc":" (Change Desc) Experienced of delivering detailed lectures on photography via interactive sessions with a detailed focus on street, travel and wedding photography. With the experience of conducting numerous workshops with leading brands and institutions like heritage, NRS Medical College etc , Shaayer is a seasoned educator and mentor"
+            "title": "Personalised Mentoring Sessions",
+            "desc": "Get on a one on one call with Shaayer to discuss your problems and get absolute and detailed solutions. Be it in terms of photography, framing and composition, Shaayer will help you formulate your strategies and help you understand your frames better. Besides that you can also get your pictures/portfolio reviewed under this mentorship programme.",
+            "isLinkApplicable":true,
+            "redirectLink":""
         }
     ]
 }

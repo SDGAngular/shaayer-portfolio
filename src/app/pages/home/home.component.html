@@ -155,14 +155,17 @@
 
                <div class="work-list">
                 <div *ngFor="let eachWork of displayedWork" class="work">
-                    <img [src]="eachWork.coverPhoto" alt="" srcset="">
+                    <ng-container *ngIf="eachWork.coverPhoto">
+                        <img [src]="eachWork.coverPhoto" alt="" srcset="">
 
-                    <div class="layer">
-
-                        <h3>{{eachWork.title}}</h3>
-                        <p>{{eachWork.description}}</p>
-                            <a  (click)="goToGallery(eachWork)" class="btn">Explore</a>
-                    </div>
+                        <div class="layer">
+    
+                            <h3>{{eachWork.title}}</h3>
+                            <p>{{eachWork.description}}</p>
+                                <a  (click)="goToGallery(eachWork)" class="btn">Explore</a>
+                        </div>
+                    </ng-container>
+                  
                 </div>
 
                 
@@ -195,8 +198,8 @@
             
                 <p>{{eachService.desc}}</p>
 
-               <a style="  border: 1px dotted;
-               padding: 6px;" href="">Learn More</a>
+               <a *ngIf="eachService.pictureListKey || eachService.isLinkApplicable" style="  border: 1px dotted;
+               padding: 6px;cursor: pointer;" (click)="goToService(eachService)" >Learn More</a>
 
             </div>
 
